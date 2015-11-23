@@ -1,0 +1,8417 @@
+> 5
+cagagaa
+> 5
+ggaaagt
+> 5
+aagagga
+> 5
+cataagt
+> 5
+gagatga
+> 5
+aataagt
+> 5
+tctgagt
+> 5
+aaggagg
+> 5
+gtggagc
+> 5
+tgggagt
+> 5
+cagaata
+> 5
+aaaatgt
+> 5
+tgaaagt
+> 5
+tgcgagt
+> 5
+cagaagg
+> 5
+cagaata
+> 5
+cagaaac
+> 5
+cagaccg
+> 5
+tggaagc
+> 5
+aaggggt
+> 5
+gtggagt
+> 5
+cataagt
+> 5
+aagcagc
+> 5
+cggaagg
+> 5
+gagagag
+> 5
+atggagt
+> 5
+ctggagg
+> 5
+gtggagc
+> 5
+aaggagg
+> 5
+cggagga
+> 5
+gcgaagg
+> 5
+ctggagt
+> 5
+caggaat
+> 5
+gcgaaga
+> 5
+aagaatt
+> 5
+aagaaca
+> 5
+ccgaatg
+> 5
+gaggaga
+> 5
+caggaga
+> 5
+ctggagg
+> 5
+cagtggt
+> 5
+cagaagg
+> 5
+ctgatgt
+> 5
+aagagga
+> 5
+aagatgg
+> 5
+caggagg
+> 5
+aaggcgt
+> 5
+caggagc
+> 5
+gagaagc
+> 5
+agggagt
+> 5
+atgaagt
+> 5
+catgagt
+> 5
+aagaagt
+> 5
+aagatgt
+> 5
+actgaga
+> 5
+aagatgg
+> 5
+cagaagc
+> 5
+aaagagt
+> 5
+aaggaac
+> 5
+caggagt
+> 5
+caggact
+> 5
+cagtggg
+> 5
+gaggagc
+> 5
+ctggagg
+> 5
+caggagg
+> 5
+acggtgt
+> 5
+gaggtgg
+> 5
+cgtaagt
+> 5
+cgggagt
+> 5
+acaaagt
+> 5
+gaaaagt
+> 5
+atggagt
+> 5
+caggagg
+> 5
+caggagt
+> 5
+caggagg
+> 5
+gggatgt
+> 5
+aagaatg
+> 5
+tcaaagt
+> 5
+aaggaat
+> 5
+caaaagc
+> 5
+taaatgg
+> 5
+tacaagt
+> 5
+gagatgt
+> 5
+aagaagg
+> 5
+gagaatg
+> 5
+gaggggg
+> 5
+gtgacgg
+> 5
+atgaaga
+> 5
+cagatct
+> 5
+ctggagt
+> 5
+aaaacgt
+> 5
+cagaaga
+> 5
+aagaaag
+> 5
+caaaagt
+> 5
+cagaagt
+> 5
+ctgaagt
+> 5
+ccgatga
+> 5
+gaggagt
+> 5
+caggagt
+> 5
+aaggagt
+> 5
+tagaaac
+> 5
+agggagc
+> 5
+aagattc
+> 5
+cagatgc
+> 5
+gaggagt
+> 5
+cagacct
+> 5
+caggagc
+> 5
+gaggaga
+> 5
+tctgagt
+> 5
+cagcagt
+> 5
+ctgtggt
+> 5
+tgagagt
+> 5
+gaagagt
+> 5
+ctgaagc
+> 5
+cagatat
+> 5
+ttggagt
+> 5
+acaaagc
+> 5
+tggaggt
+> 5
+aagttgg
+> 5
+ccggagc
+> 5
+gctaagt
+> 5
+ctggagg
+> 5
+gagaaag
+> 5
+tctgagt
+> 5
+gaggaga
+> 5
+ctgaagt
+> 5
+aagacta
+> 5
+aagactt
+> 5
+cagattt
+> 5
+ggagagt
+> 5
+cagatac
+> 5
+cagtaga
+> 5
+gagaaga
+> 5
+ctgaact
+> 5
+ttggagc
+> 5
+cagatgt
+> 5
+tagatgt
+> 5
+cagagtg
+> 5
+tagaagt
+> 5
+taggggt
+> 5
+tagaggt
+> 5
+tgaaagg
+> 5
+aagaggg
+> 5
+caggggc
+> 5
+aaggagc
+> 5
+gagaggt
+> 5
+cagaatg
+> 5
+acgaaga
+> 5
+aagaagg
+> 5
+cagtggt
+> 5
+aagaagt
+> 5
+cagaact
+> 5
+aagaagc
+> 5
+aagagtg
+> 5
+aagaaaa
+> 5
+aataagt
+> 5
+cagaaga
+> 5
+ccaaatg
+> 5
+ccgaagc
+> 5
+cagaagg
+> 5
+cagatct
+> 5
+aaagggt
+> 5
+caggagg
+> 5
+aagaatc
+> 5
+aaaaagt
+> 5
+aagaatg
+> 5
+ttggagt
+> 5
+aaggaga
+> 5
+tcgaagg
+> 5
+ctgaagt
+> 5
+caggagc
+> 5
+cagacac
+> 5
+tgggagt
+> 5
+tcaaagc
+> 5
+caaatgt
+> 5
+gagagtt
+> 5
+cagaaag
+> 5
+gggaagg
+> 5
+ctgaagt
+> 5
+caggatc
+> 5
+ctgcagt
+> 5
+ggggagt
+> 5
+aaggtgc
+> 5
+gagacca
+> 5
+aatgagt
+> 5
+caggggc
+> 5
+ggagagt
+> 5
+ccgaagt
+> 5
+atggagt
+> 5
+gaggaga
+> 5
+caaaagg
+> 5
+gcagagt
+> 5
+cagagct
+> 5
+aagaagt
+> 5
+aaggagc
+> 5
+gagaagt
+> 5
+catgagt
+> 5
+cagtcgt
+> 5
+gaggagt
+> 5
+cagatgt
+> 5
+gcaaagt
+> 5
+tcagagt
+> 5
+cggaagt
+> 5
+aaggggt
+> 5
+aagaagt
+> 5
+tctaagt
+> 5
+aaaaagt
+> 5
+acaaaga
+> 5
+caggtgt
+> 5
+aagagga
+> 5
+tcggagt
+> 5
+atcgagt
+> 5
+cagaaga
+> 5
+tgggagt
+> 5
+gaggaga
+> 5
+agaaagt
+> 5
+gagaggt
+> 5
+ttgaaga
+> 5
+aagaagg
+> 5
+aagaaga
+> 5
+aagaagc
+> 5
+gcaaagt
+> 5
+gagaagc
+> 5
+cagaacc
+> 5
+cagaagt
+> 5
+tggaagt
+> 5
+gagatac
+> 5
+aagacca
+> 5
+aagatgt
+> 5
+gagagga
+> 5
+cagaaca
+> 5
+tagaaac
+> 5
+aagaacc
+> 5
+gaagagt
+> 5
+tgagagc
+> 5
+gagaagg
+> 5
+gagtaga
+> 5
+ctggaga
+> 5
+aaggagg
+> 5
+caggata
+> 5
+acggagt
+> 5
+ccggagt
+> 5
+atgaaga
+> 5
+ccgagga
+> 5
+aagccat
+> 5
+atgaggc
+> 5
+cagtagt
+> 5
+cagaaga
+> 5
+aagaggc
+> 5
+caggagc
+> 5
+cagcggt
+> 5
+aagatgc
+> 5
+gagatgg
+> 5
+gggaaat
+> 5
+ctggggt
+> 5
+tgggagc
+> 5
+atgatgg
+> 5
+caggagc
+> 5
+gagaagg
+> 5
+cagaccc
+> 5
+agggcgt
+> 5
+ttcatcc
+> 5
+caggaag
+> 5
+aagatgt
+> 5
+gtgaagt
+> 5
+aaggagg
+> 5
+gagatat
+> 5
+acaaagt
+> 5
+aagaaga
+> 5
+caagagt
+> 5
+cagattt
+> 5
+aagttgg
+> 5
+acgattt
+> 5
+tggaagt
+> 5
+atgaagg
+> 5
+tggaagt
+> 5
+atgaaat
+> 5
+aagacag
+> 5
+aaggagg
+> 5
+agaaagt
+> 5
+agggagt
+> 5
+aaggaat
+> 5
+gaggagt
+> 5
+cagctgt
+> 5
+cagaaga
+> 5
+caggagg
+> 5
+aagaatg
+> 5
+cacgagt
+> 5
+acggaga
+> 5
+acggagt
+> 5
+gcagagt
+> 5
+aaggggt
+> 5
+ggggaga
+> 5
+cagaagc
+> 5
+cagaaga
+> 5
+aagaagc
+> 5
+aagagga
+> 5
+tcgaagt
+> 5
+aaggagt
+> 5
+tcggagt
+> 5
+aaggagc
+> 5
+caggaga
+> 5
+cagcagg
+> 5
+cagaccc
+> 5
+gagagct
+> 5
+aaggggt
+> 5
+gcgaagg
+> 5
+cagtcgt
+> 5
+caggggg
+> 5
+aagaagg
+> 5
+caggggc
+> 5
+gaggagg
+> 5
+agggcgt
+> 5
+aaggagt
+> 5
+tggaagc
+> 5
+cagaagt
+> 5
+caggagt
+> 5
+gtggagt
+> 5
+gtaaagt
+> 5
+aagaagt
+> 5
+cagaagt
+> 5
+cagatta
+> 5
+cagaagg
+> 5
+aaggggg
+> 5
+cagaggt
+> 5
+gagaatg
+> 5
+aagtagt
+> 5
+atgaaaa
+> 5
+aagaaat
+> 5
+ttgttgt
+> 5
+aagaaga
+> 5
+gcaaagt
+> 5
+agaaagt
+> 5
+aaggtgt
+> 5
+cagaagc
+> 5
+aaagagt
+> 5
+caggcgg
+> 5
+ctgaagc
+> 5
+gaaaaga
+> 5
+aagaagt
+> 5
+cagaaac
+> 5
+tcaaagt
+> 5
+acgaaga
+> 5
+gaggaga
+> 5
+caagagt
+> 5
+gagaact
+> 5
+taagagt
+> 5
+gagaagc
+> 5
+caggagc
+> 5
+tagaagt
+> 5
+aagacca
+> 5
+cagaagt
+> 5
+aagaaca
+> 5
+ttggagc
+> 5
+cagaact
+> 5
+cagaagc
+> 5
+ctggaga
+> 5
+agggagt
+> 5
+tggaagt
+> 5
+aagaatc
+> 5
+aagatta
+> 5
+tagaagg
+> 5
+agcaagt
+> 5
+ataaagt
+> 5
+cagacgt
+> 5
+aagattt
+> 5
+aagaagc
+> 5
+cagatgt
+> 5
+aagaaca
+> 5
+ttgatcc
+> 5
+cagattt
+> 5
+aagaata
+> 5
+atggggt
+> 5
+aagtagg
+> 5
+aggcagt
+> 5
+aagaaat
+> 5
+gaggagg
+> 5
+cagacgc
+> 5
+caaaagt
+> 5
+cagatga
+> 5
+atggagt
+> 5
+aaggtgt
+> 5
+aagagtt
+> 5
+aagaata
+> 5
+cacaagt
+> 5
+catatag
+> 5
+tcaaaga
+> 5
+ctggagt
+> 5
+cagaaag
+> 5
+caaacgc
+> 5
+tggccgt
+> 5
+caggagg
+> 5
+tcggagt
+> 5
+tgggagt
+> 5
+gagaccc
+> 5
+aaggagg
+> 5
+cggaagc
+> 5
+gagagcc
+> 5
+ctgaggt
+> 5
+aagatgt
+> 5
+aagctgt
+> 5
+aagatgg
+> 5
+cagaagg
+> 5
+cagaacc
+> 5
+gctaagt
+> 5
+cagaatt
+> 5
+tagaagt
+> 5
+aagaatt
+> 5
+ggaaagt
+> 5
+agaaagt
+> 5
+aagactg
+> 5
+aagaatc
+> 5
+aagaaga
+> 5
+gccgagt
+> 5
+gtgaagg
+> 5
+cctgagt
+> 5
+aagaaga
+> 5
+caggaga
+> 5
+gagatgt
+> 5
+gcaaagt
+> 5
+gcaaagt
+> 5
+gaaaaga
+> 5
+gagatag
+> 5
+tgggagt
+> 5
+aagatgc
+> 5
+aggatgc
+> 5
+gtggagt
+> 5
+gtgaaga
+> 5
+gtggagt
+> 5
+agaacgt
+> 5
+gtggtgt
+> 5
+gtggagt
+> 5
+gctaaga
+> 5
+tagagag
+> 5
+aagaaat
+> 5
+cagaatc
+> 5
+caaaagt
+> 5
+caggaga
+> 5
+gcggggt
+> 5
+aagacgg
+> 5
+tcaaagt
+> 5
+tctaagt
+> 5
+caaatgt
+> 5
+gtgaggt
+> 5
+cagatgc
+> 5
+cagaaca
+> 5
+taaaagc
+> 5
+aaggaac
+> 5
+aagatag
+> 5
+cagaaaa
+> 5
+cctaagt
+> 5
+ctgatgt
+> 5
+tctaagt
+> 5
+caggaga
+> 5
+atgatgt
+> 5
+cagaagt
+> 5
+aagaagg
+> 5
+aaggaga
+> 5
+ctgaagt
+> 5
+taggagt
+> 5
+cagaaac
+> 5
+cagacga
+> 5
+gataagt
+> 5
+aagtggg
+> 5
+gagacaa
+> 5
+cagaaca
+> 5
+gagaggt
+> 5
+gagaatg
+> 5
+cggaggt
+> 5
+tggaagt
+> 5
+cagattc
+> 5
+aagggtg
+> 5
+aagaagg
+> 5
+gagaggg
+> 5
+cagacat
+> 5
+gcaaagt
+> 5
+caggaga
+> 5
+aagaggt
+> 5
+gtggagt
+> 5
+ctgatgt
+> 5
+ccgaacc
+> 5
+cgggagg
+> 5
+ccggagg
+> 5
+gcaaagt
+> 5
+aagaagt
+> 5
+aagaaag
+> 5
+agaaggt
+> 5
+aagcaga
+> 5
+aagagga
+> 5
+cagatga
+> 5
+agtaagt
+> 5
+cagtggt
+> 5
+gcaaagt
+> 5
+cagaagc
+> 5
+ttgagga
+> 5
+gaggaga
+> 5
+acggagg
+> 5
+cagggga
+> 5
+cagaagg
+> 5
+aaggagg
+> 5
+aagacat
+> 5
+cagaaat
+> 5
+caggctg
+> 5
+gcgaagt
+> 5
+cgaaagt
+> 5
+ccgatgt
+> 5
+agtaagt
+> 5
+gaaaagt
+> 5
+aaaaagt
+> 5
+cagaaag
+> 5
+attaagt
+> 5
+aagataa
+> 5
+cagaaga
+> 5
+agagagt
+> 5
+cagaaga
+> 5
+ctaaagt
+> 5
+aagaggg
+> 5
+caggagc
+> 5
+gggactg
+> 5
+atggggt
+> 5
+cagacca
+> 5
+ctgaagg
+> 5
+aagaaca
+> 5
+gagacgt
+> 5
+gagagag
+> 5
+aaggcag
+> 5
+cagacct
+> 5
+aagactt
+> 5
+tcgatgt
+> 5
+ttggagt
+> 5
+gcaaagt
+> 5
+cagactg
+> 5
+gataaga
+> 5
+cagaatt
+> 5
+cagaaag
+> 5
+caggatc
+> 5
+cagaagt
+> 5
+catgagt
+> 5
+aggacgt
+> 5
+taaaaga
+> 5
+cagatga
+> 5
+aagaact
+> 5
+aagaaag
+> 5
+gtgatgc
+> 5
+gaggagc
+> 5
+cagaatg
+> 5
+gagagcg
+> 5
+cagaccc
+> 5
+ccgaata
+> 5
+cagaact
+> 5
+acaaagc
+> 5
+gaggagc
+> 5
+ctggagt
+> 5
+gctaagt
+> 5
+gtggagc
+> 5
+caggagc
+> 5
+cagaggc
+> 5
+cagggga
+> 5
+aacgagt
+> 5
+ttggagg
+> 5
+cagaagc
+> 5
+aagatcc
+> 5
+cagattt
+> 5
+cagaatg
+> 5
+tcagagt
+> 5
+gtggagt
+> 5
+aagaaag
+> 5
+gaggagg
+> 5
+agtgagt
+> 5
+aagacaa
+> 5
+gtgaaga
+> 5
+aaggcgc
+> 5
+aaggggt
+> 5
+cagaaag
+> 5
+tagaaga
+> 5
+atgaaga
+> 5
+cagattc
+> 5
+gagaata
+> 5
+cagagcg
+> 5
+tggaagt
+> 5
+cagaacg
+> 5
+aggaggt
+> 5
+cagaaag
+> 5
+aagatat
+> 5
+caggagg
+> 5
+aagaaag
+> 5
+tttaagt
+> 5
+aagatgt
+> 5
+tttaagt
+> 5
+cagaagt
+> 5
+gagatgt
+> 5
+aagaaaa
+> 5
+aagaagc
+> 5
+caggggt
+> 5
+gcggaga
+> 5
+aagagag
+> 5
+catgagt
+> 5
+caggagt
+> 5
+aaaaagt
+> 5
+gagatat
+> 5
+aagaggc
+> 5
+cagatgg
+> 5
+gagaagt
+> 5
+cagaggg
+> 5
+aaaaagt
+> 5
+catgagt
+> 5
+aagacgt
+> 5
+ttggagt
+> 5
+tggaagt
+> 5
+cagctgc
+> 5
+cagatga
+> 5
+cagaatt
+> 5
+cagttgt
+> 5
+cagatgt
+> 5
+cagagta
+> 5
+aaggtgt
+> 5
+aaggagt
+> 5
+caggagc
+> 5
+gagcagt
+> 5
+atgagga
+> 5
+cagaaga
+> 5
+cggaagt
+> 5
+aagaaat
+> 5
+cagacaa
+> 5
+cagaagt
+> 5
+gaggaag
+> 5
+aaggggt
+> 5
+aaggagg
+> 5
+aagatga
+> 5
+aagaatg
+> 5
+cagaatg
+> 5
+aaaacag
+> 5
+aagaata
+> 5
+tgtgagt
+> 5
+atggagg
+> 5
+aagatgg
+> 5
+ctgaagt
+> 5
+ccgactg
+> 5
+aaggagt
+> 5
+tggaagt
+> 5
+atggagc
+> 5
+tgaaagg
+> 5
+tgggagt
+> 5
+cagatgt
+> 5
+gagaaga
+> 5
+cttatgt
+> 5
+aagatgg
+> 5
+cagaact
+> 5
+aagaaat
+> 5
+aatgagt
+> 5
+gaggcgg
+> 5
+cacgagt
+> 5
+aaaaagt
+> 5
+attaagt
+> 5
+caggggt
+> 5
+ctgacgt
+> 5
+cagattt
+> 5
+cagaaaa
+> 5
+aacgagt
+> 5
+gggaggg
+> 5
+cagaggc
+> 5
+tagaatt
+> 5
+cagaagt
+> 5
+cagaagc
+> 5
+cagaaaa
+> 5
+gagatgt
+> 5
+caggagt
+> 5
+cagaagg
+> 5
+aaggagc
+> 5
+cagaagt
+> 5
+cagaaaa
+> 5
+gggatgt
+> 5
+aagactt
+> 5
+aagaaat
+> 5
+aagaagt
+> 5
+gtgatgt
+> 5
+aagaagt
+> 5
+ccagagg
+> 5
+tagaaag
+> 5
+atggagt
+> 5
+cagatgt
+> 5
+aaggggt
+> 5
+aaggagg
+> 5
+ctggagt
+> 5
+taggagt
+> 5
+aagagga
+> 5
+tataagt
+> 5
+aggatgt
+> 5
+aaggggt
+> 5
+tgtaaga
+> 5
+gagaatg
+> 5
+tagatgt
+> 5
+tttagga
+> 5
+cagactc
+> 5
+gaggagc
+> 5
+gaggagc
+> 5
+attgagt
+> 5
+atgaacc
+> 5
+tcagagt
+> 5
+atgaggt
+> 5
+aagatgt
+> 5
+ttgaagg
+> 5
+tagactt
+> 5
+ggggagt
+> 5
+caggcgt
+> 5
+cagaaat
+> 5
+taggagt
+> 5
+aaggagg
+> 5
+cagaatt
+> 5
+acggagt
+> 5
+cataagt
+> 5
+gaggagg
+> 5
+gagaccc
+> 5
+cagaagg
+> 5
+gcaaagt
+> 5
+cagtagt
+> 5
+aagacgc
+> 5
+ctgaaaa
+> 5
+cgggaga
+> 5
+cagtaga
+> 5
+actaagt
+> 5
+cagaatt
+> 5
+cagaagg
+> 5
+aagaaaa
+> 5
+cagagtt
+> 5
+ctggagg
+> 5
+gaggagg
+> 5
+atgatga
+> 5
+gaggagc
+> 5
+tcaaagt
+> 5
+aagatgt
+> 5
+aaaatgt
+> 5
+aacatgt
+> 5
+tttaagt
+> 5
+gaggagt
+> 5
+cagaggt
+> 5
+aatgagt
+> 5
+aaaaagt
+> 5
+aagaagt
+> 5
+gtggagt
+> 5
+ccggaga
+> 5
+gaggact
+> 5
+cagaatt
+> 5
+aacgagt
+> 5
+caggagc
+> 5
+aagaaat
+> 5
+cagattc
+> 5
+aagaaaa
+> 5
+aaggggt
+> 5
+gagacgg
+> 5
+gagaact
+> 5
+aaggagt
+> 5
+cagagga
+> 5
+cagacag
+> 5
+cagaaga
+> 5
+aaggagg
+> 5
+caggagt
+> 5
+aaggagc
+> 5
+caggggt
+> 5
+gggaagt
+> 5
+gaggagg
+> 5
+ttgaagc
+> 5
+cagacgc
+> 5
+cagaggt
+> 5
+tagataa
+> 5
+cagagga
+> 5
+caggatg
+> 5
+aggatgt
+> 5
+actaagt
+> 5
+caaaagc
+> 5
+caggagt
+> 5
+tgagagt
+> 5
+aaaaagg
+> 5
+cagaaat
+> 5
+aaggagt
+> 5
+cagaagt
+> 5
+tgcgagt
+> 5
+gggatgt
+> 5
+caggagc
+> 5
+tcaaagt
+> 5
+ctggagt
+> 5
+actgagt
+> 5
+tagaaga
+> 5
+atgaata
+> 5
+gagaagt
+> 5
+cagacag
+> 5
+ctgatgt
+> 5
+atggagt
+> 5
+gctaagt
+> 5
+taggaat
+> 5
+caggatt
+> 5
+aagatgc
+> 5
+cagaatt
+> 5
+aagataa
+> 5
+aaggagt
+> 5
+ttgaagt
+> 5
+ctggggt
+> 5
+aggaagc
+> 5
+tccaagt
+> 5
+gagatcg
+> 5
+aagatgt
+> 5
+tagaaac
+> 5
+aagataa
+> 5
+aagaatt
+> 5
+tgtgagt
+> 5
+aagaaga
+> 5
+caaaagg
+> 5
+aaaaagt
+> 5
+cacaagt
+> 5
+caaaagt
+> 5
+gcaaagt
+> 5
+caaatgt
+> 5
+gcaaagt
+> 5
+aagactg
+> 5
+cagaaat
+> 5
+cagtagt
+> 5
+cagatag
+> 5
+aaggggt
+> 5
+aagaagg
+> 5
+ctgatga
+> 5
+acagagt
+> 5
+caggaga
+> 5
+tgcaagt
+> 5
+aagacag
+> 5
+caaaagc
+> 5
+aagaagt
+> 5
+gataagt
+> 5
+tgggagt
+> 5
+aacaagt
+> 5
+aaaaagt
+> 5
+attaagt
+> 5
+aggaagt
+> 5
+tagaaga
+> 5
+tgtgagt
+> 5
+taggagt
+> 5
+tggtggt
+> 5
+cagcagt
+> 5
+aagactt
+> 5
+gagaagt
+> 5
+aaaaagt
+> 5
+cggataa
+> 5
+cagaaaa
+> 5
+cagaaag
+> 5
+aagaggt
+> 5
+cacgagt
+> 5
+caggaga
+> 5
+caggagg
+> 5
+ccaaagt
+> 5
+aatacgt
+> 5
+caagagt
+> 5
+gaaaaga
+> 5
+caggagc
+> 5
+aagaaga
+> 5
+aagaaga
+> 5
+cagaatt
+> 5
+gcagagt
+> 5
+tagaagt
+> 5
+gtggagt
+> 5
+caggaag
+> 5
+cgggaga
+> 5
+cgggagt
+> 5
+caggagt
+> 5
+aagaggg
+> 5
+gagatgg
+> 5
+cagaatc
+> 5
+gagaagt
+> 5
+cagaggt
+> 5
+acggaga
+> 5
+aagaagc
+> 5
+caggtgt
+> 5
+agggaga
+> 5
+taagcgt
+> 5
+atggagt
+> 5
+ctgaagt
+> 5
+gtgaagt
+> 5
+caggaga
+> 5
+caggagt
+> 5
+tgggagt
+> 5
+ctggagg
+> 5
+aagaatc
+> 5
+cagagtg
+> 5
+cataaga
+> 5
+acgaatt
+> 5
+ctgaggt
+> 5
+gagaaat
+> 5
+tagaaag
+> 5
+cagaggg
+> 5
+aagaact
+> 5
+aagacgg
+> 5
+ctgcagc
+> 5
+gaggagt
+> 5
+caggggc
+> 5
+ccgacgg
+> 5
+cagacat
+> 5
+aagatct
+> 5
+caagagt
+> 5
+aaggtgg
+> 5
+aaggcgc
+> 5
+caggcgc
+> 5
+acggagt
+> 5
+caggtgc
+> 5
+ttggagt
+> 5
+ctgaagt
+> 5
+ctggagt
+> 5
+ttggagc
+> 5
+cagagaa
+> 5
+caggggc
+> 5
+ccggagt
+> 5
+agagagt
+> 5
+ccggagg
+> 5
+gctgagt
+> 5
+gatgagt
+> 5
+caggagg
+> 5
+gtggagt
+> 5
+ggggagt
+> 5
+ggggagc
+> 5
+ctggagt
+> 5
+aggaatg
+> 5
+cagagtt
+> 5
+acggagt
+> 5
+gggatgt
+> 5
+caaaaga
+> 5
+aagttgt
+> 5
+tctaagt
+> 5
+ttggagt
+> 5
+aggaagt
+> 5
+caggagt
+> 5
+gaggagt
+> 5
+ctggagt
+> 5
+accgagt
+> 5
+gctaagt
+> 5
+taaaagc
+> 5
+cagagtc
+> 5
+gggaagt
+> 5
+gagactg
+> 5
+cagaggg
+> 5
+agacagt
+> 5
+acgaagc
+> 5
+cagaaca
+> 5
+aagaaga
+> 5
+tatgagt
+> 5
+ttgaagt
+> 5
+aagacag
+> 5
+aagattt
+> 5
+aagaaag
+> 5
+tcgaagt
+> 5
+atgaagt
+> 5
+tagaacg
+> 5
+taggagg
+> 5
+aacgaga
+> 5
+agtgagt
+> 5
+caggagc
+> 5
+gaggcgc
+> 5
+caggaga
+> 5
+ccgaact
+> 5
+ctggagg
+> 5
+aaggaca
+> 5
+ctgaagt
+> 5
+gaaaagt
+> 5
+cagatgt
+> 5
+ggcgagt
+> 5
+aaggagg
+> 5
+tagaaac
+> 5
+aggaggc
+> 5
+gcggagt
+> 5
+acaaagt
+> 5
+caggggg
+> 5
+aaggagt
+> 5
+aaggagg
+> 5
+cagactg
+> 5
+aggaaga
+> 5
+tataagc
+> 5
+atgaagt
+> 5
+gataagt
+> 5
+ccaaaga
+> 5
+tctaagt
+> 5
+acaaagt
+> 5
+gagtagt
+> 5
+atggaga
+> 5
+ttgaagc
+> 5
+cagaagt
+> 5
+acagagc
+> 5
+acgaggt
+> 5
+aaggagt
+> 5
+ttgaaat
+> 5
+cagaaga
+> 5
+tgtaagt
+> 5
+caaatgt
+> 5
+gagatac
+> 5
+gagaagt
+> 5
+aaagagt
+> 5
+cctgagt
+> 5
+caggagg
+> 5
+aaagagc
+> 5
+cagaaat
+> 5
+actgagt
+> 5
+aagcggt
+> 5
+aagagga
+> 5
+aagaagc
+> 5
+aagcagt
+> 5
+ccaacgt
+> 5
+cagaagc
+> 5
+cggaagg
+> 5
+aagacca
+> 5
+cagaagg
+> 5
+cagactt
+> 5
+aagaagg
+> 5
+aagaata
+> 5
+aagaagg
+> 5
+tggaata
+> 5
+cagatgt
+> 5
+tcggagt
+> 5
+cagaagg
+> 5
+cagaagc
+> 5
+agaaagc
+> 5
+atgaagt
+> 5
+ttgaaga
+> 5
+gagaagc
+> 5
+ccaaagt
+> 5
+aagaaca
+> 5
+aagaaga
+> 5
+gggaagc
+> 5
+gagaatt
+> 5
+cagagcg
+> 5
+cagaatg
+> 5
+ggggagt
+> 5
+aagataa
+> 5
+aacaagt
+> 5
+gtgaagg
+> 5
+gagatga
+> 5
+aggaagt
+> 5
+aagaggg
+> 5
+atggagg
+> 5
+ccgaaga
+> 5
+gagaagt
+> 5
+tagaggg
+> 5
+aaggaag
+> 5
+gagaaga
+> 5
+tagaaac
+> 5
+aagaatt
+> 5
+aagattt
+> 5
+aagaggg
+> 5
+cagacta
+> 5
+gagaagc
+> 5
+aagatgt
+> 5
+cgggagt
+> 5
+ttgacag
+> 5
+aagaatg
+> 5
+aaggctg
+> 5
+cagactc
+> 5
+caggaga
+> 5
+caggaga
+> 5
+aagaata
+> 5
+acaaagt
+> 5
+aagagtt
+> 5
+aagatgt
+> 5
+aaagagt
+> 5
+aagatga
+> 5
+agggaga
+> 5
+agtgagt
+> 5
+ctgagga
+> 5
+tagaaga
+> 5
+aaggatt
+> 5
+cagaagc
+> 5
+tggtagt
+> 5
+caaaata
+> 5
+gagatga
+> 5
+aaaatgt
+> 5
+tagtggt
+> 5
+ttgatct
+> 5
+aacgagt
+> 5
+cagaagt
+> 5
+caaaagt
+> 5
+aagaagg
+> 5
+aagaagg
+> 5
+cttgagg
+> 5
+ctgaagt
+> 5
+gaggaga
+> 5
+caaaggt
+> 5
+caggagc
+> 5
+tggtcat
+> 5
+cgggagc
+> 5
+gatgagt
+> 5
+acggagt
+> 5
+caggagt
+> 5
+ccgctgt
+> 5
+caggtct
+> 5
+ccggaga
+> 5
+tcggagc
+> 5
+gcgaaga
+> 5
+aagaaga
+> 5
+aggaagg
+> 5
+gagaaga
+> 5
+caggggc
+> 5
+aagtagt
+> 5
+gaggggt
+> 5
+tggaagg
+> 5
+acgaagg
+> 5
+gaggagt
+> 5
+cgaaaga
+> 5
+gaggcgg
+> 5
+caggagc
+> 5
+aagaaac
+> 5
+atggagg
+> 5
+gagaaga
+> 5
+agaaagt
+> 5
+gagaagt
+> 5
+gtggagt
+> 5
+caggggt
+> 5
+caggtgt
+> 5
+aagaact
+> 5
+aagaacc
+> 5
+tgaaagt
+> 5
+cagtagt
+> 5
+cagtggc
+> 5
+accaagt
+> 5
+gctgagt
+> 5
+cagattg
+> 5
+aagacag
+> 5
+caggcgg
+> 5
+aagatga
+> 5
+aggaagt
+> 5
+acaaagt
+> 5
+tagaagg
+> 5
+cagacgt
+> 5
+ataaagt
+> 5
+cagaagt
+> 5
+aaggaag
+> 5
+cagaagc
+> 5
+aagaagt
+> 5
+gagaagg
+> 5
+atgaaga
+> 5
+cagaaaa
+> 5
+ctgatgt
+> 5
+aagatat
+> 5
+cagaatt
+> 5
+tctaagt
+> 5
+gagtagt
+> 5
+cagatta
+> 5
+cagaggc
+> 5
+tagagag
+> 5
+aagaagt
+> 5
+cagaaat
+> 5
+tagaagt
+> 5
+cctaagt
+> 5
+atggagc
+> 5
+cagatgt
+> 5
+cagatgt
+> 5
+cagagga
+> 5
+cagaatt
+> 5
+cagaaaa
+> 5
+cagcagt
+> 5
+cagaaga
+> 5
+cagactc
+> 5
+ctcaagt
+> 5
+gcgaact
+> 5
+ttgaagt
+> 5
+caggggt
+> 5
+gcgaggt
+> 5
+ttgaggt
+> 5
+ctgacag
+> 5
+cagattt
+> 5
+acgaaat
+> 5
+aagtaat
+> 5
+gaggtgt
+> 5
+caggaga
+> 5
+gtgaggt
+> 5
+cagactt
+> 5
+cagaagg
+> 5
+cagcagt
+> 5
+tcgaagt
+> 5
+gaggtga
+> 5
+gaggagg
+> 5
+atgaaag
+> 5
+agggggt
+> 5
+cagatgt
+> 5
+caggagg
+> 5
+gaggcat
+> 5
+gaggagg
+> 5
+aagaaac
+> 5
+cggatgt
+> 5
+aaggcgg
+> 5
+gagaagt
+> 5
+tagaaaa
+> 5
+aaggcat
+> 5
+cagatat
+> 5
+cagaagc
+> 5
+cagacta
+> 5
+aagacat
+> 5
+cagactc
+> 5
+ttgatgg
+> 5
+actaagt
+> 5
+aaggagc
+> 5
+gcgatgt
+> 5
+aagaaga
+> 5
+tcggagc
+> 5
+ccaaagt
+> 5
+ccaaagt
+> 5
+agagagt
+> 5
+aagaaaa
+> 5
+aaggagg
+> 5
+ccaaagt
+> 5
+atgaagt
+> 5
+ggaaagt
+> 5
+cagattc
+> 5
+cagtagt
+> 5
+aacgagt
+> 5
+ttgaagt
+> 5
+cgagagc
+> 5
+caggagc
+> 5
+caaaagt
+> 5
+aagatgg
+> 5
+gataaga
+> 5
+taggagt
+> 5
+aagacag
+> 5
+gagaagt
+> 5
+ctggagt
+> 5
+tggaagt
+> 5
+aaggagc
+> 5
+gagatac
+> 5
+cagatag
+> 5
+aaggaga
+> 5
+cagaccg
+> 5
+aagaaat
+> 5
+caggagt
+> 5
+ttgaggt
+> 5
+cagatca
+> 5
+acggcgc
+> 5
+gaggagc
+> 5
+gaggagg
+> 5
+acggagc
+> 5
+gaggggt
+> 5
+cataagt
+> 5
+agcgagt
+> 5
+ccgaagg
+> 5
+cagaagc
+> 5
+gggaacg
+> 5
+aaggagc
+> 5
+cgggagg
+> 5
+cccaggt
+> 5
+aaggagc
+> 5
+cagaaag
+> 5
+cagaagg
+> 5
+atggagt
+> 5
+caggagt
+> 5
+gagaaga
+> 5
+ggcatcc
+> 5
+cacaagt
+> 5
+aaaaggt
+> 5
+aagggga
+> 5
+aaggggt
+> 5
+tagaagt
+> 5
+aagaaga
+> 5
+cagataa
+> 5
+tggaagt
+> 5
+cagacgt
+> 5
+gatgagt
+> 5
+gaggagt
+> 5
+tggaact
+> 5
+gaggaga
+> 5
+gaggagt
+> 5
+ttgaagg
+> 5
+cagaggt
+> 5
+atgaaga
+> 5
+gggaagt
+> 5
+attaagt
+> 5
+ttgaagt
+> 5
+cagattc
+> 5
+gtggagt
+> 5
+gagcagt
+> 5
+cagaggt
+> 5
+ttggagt
+> 5
+gaaaagt
+> 5
+gatgagt
+> 5
+ccgatgg
+> 5
+aagaata
+> 5
+cagaagg
+> 5
+tgcgagt
+> 5
+cagatgt
+> 5
+ccgacga
+> 5
+cagatcg
+> 5
+cagaaag
+> 5
+cagatga
+> 5
+gggaaaa
+> 5
+gcggagt
+> 5
+aagaggt
+> 5
+aagtctt
+> 5
+tttaagt
+> 5
+ttgaagt
+> 5
+gaaaagt
+> 5
+cataggt
+> 5
+aagaagt
+> 5
+tggaagt
+> 5
+cagcagc
+> 5
+ctggagt
+> 5
+aagaaat
+> 5
+cagattg
+> 5
+gcagagt
+> 5
+cagatca
+> 5
+gagaata
+> 5
+aaggagg
+> 5
+ctgatgt
+> 5
+gaaaaga
+> 5
+aagatca
+> 5
+gataagt
+> 5
+cagcagt
+> 5
+caagcgt
+> 5
+tggacgt
+> 5
+aagaatt
+> 5
+gagaaga
+> 5
+aagaagc
+> 5
+tggaagt
+> 5
+agggagt
+> 5
+cagcagt
+> 5
+caggaga
+> 5
+aagacag
+> 5
+aagaaga
+> 5
+agcgagt
+> 5
+ataaggg
+> 5
+aaaaagg
+> 5
+aagttgt
+> 5
+cggaaga
+> 5
+aagagga
+> 5
+cagataa
+> 5
+aagaagt
+> 5
+caggaga
+> 5
+aaggagc
+> 5
+tcaaagt
+> 5
+caggaag
+> 5
+tcggagt
+> 5
+gaggagc
+> 5
+gaggagg
+> 5
+gtggagt
+> 5
+ggtatgt
+> 5
+cagcgga
+> 5
+caggagg
+> 5
+aaggggt
+> 5
+gcagagt
+> 5
+gcggagt
+> 5
+cagaacc
+> 5
+caggagt
+> 5
+cagaaga
+> 5
+ccaaagt
+> 5
+ccaaagt
+> 5
+gtgcagt
+> 5
+cagttgt
+> 5
+taggaga
+> 5
+ctgaagc
+> 5
+ccggagg
+> 5
+atggagt
+> 5
+tgggagc
+> 5
+cgggagc
+> 5
+caggagc
+> 5
+aagaatt
+> 5
+gggaagt
+> 5
+atgaaga
+> 5
+cagaagg
+> 5
+caaatgt
+> 5
+tggacgt
+> 5
+gagtact
+> 5
+cagagag
+> 5
+aagatgg
+> 5
+gagaagt
+> 5
+atgaggt
+> 5
+cacaagc
+> 5
+cagaggt
+> 5
+catgagt
+> 5
+aagatta
+> 5
+cagtggt
+> 5
+tagaaaa
+> 5
+caggagt
+> 5
+tgagagt
+> 5
+ccaaagt
+> 5
+caggaga
+> 5
+cggaagt
+> 5
+caggagt
+> 5
+cagaaaa
+> 5
+gcaatcc
+> 5
+aagaagt
+> 5
+caggagg
+> 5
+cagaagc
+> 5
+tagaagt
+> 5
+acggggc
+> 5
+atggagc
+> 5
+accaagg
+> 5
+aaggaga
+> 5
+cagatgt
+> 5
+gagatgt
+> 5
+cagaggc
+> 5
+aagaagg
+> 5
+aagaagg
+> 5
+tagaaga
+> 5
+aagattt
+> 5
+ttgaagt
+> 5
+aagagta
+> 5
+tagatgt
+> 5
+cagacag
+> 5
+cagaatt
+> 5
+aagagga
+> 5
+tagaaat
+> 5
+ttgaggt
+> 5
+atgaatt
+> 5
+cagatgg
+> 5
+aagaaat
+> 5
+agggcta
+> 5
+aagctct
+> 5
+gagaatg
+> 5
+tagaaat
+> 5
+cagatta
+> 5
+gcgttgt
+> 5
+aataagt
+> 5
+aagaatt
+> 5
+atggagt
+> 5
+aagaagt
+> 5
+atggaga
+> 5
+gaggagg
+> 5
+agggaga
+> 5
+ccggggt
+> 5
+gaggagt
+> 5
+gggatgt
+> 5
+gtgaagg
+> 5
+aagaacc
+> 5
+agaaagc
+> 5
+tgggagt
+> 5
+agggagt
+> 5
+tcggagt
+> 5
+cgggagg
+> 5
+aagaggg
+> 5
+agggagc
+> 5
+atggagt
+> 5
+ccggagg
+> 5
+caggagg
+> 5
+tgagagt
+> 5
+cagaggg
+> 5
+aaggggt
+> 5
+gaggagg
+> 5
+agggagt
+> 5
+tgggagt
+> 5
+caggagg
+> 5
+caggtgg
+> 5
+aaggagt
+> 5
+gaggaga
+> 5
+ctggagc
+> 5
+ctaaagt
+> 5
+agtaagg
+> 5
+cagaagg
+> 5
+caggagt
+> 5
+aagagga
+> 5
+aaggcca
+> 5
+tgggagc
+> 5
+tagaaga
+> 5
+atgaagt
+> 5
+aaaaagg
+> 5
+aatgagg
+> 5
+aggaagc
+> 5
+gaagagt
+> 5
+aagaaca
+> 5
+cagatag
+> 5
+gaggagt
+> 5
+cagaaaa
+> 5
+ccaaagt
+> 5
+gcgaagt
+> 5
+cctaagt
+> 5
+ctaaagg
+> 5
+tggaagg
+> 5
+caggagc
+> 5
+atggagc
+> 5
+aaggggt
+> 5
+aaggggt
+> 5
+tcggagt
+> 5
+caggggc
+> 5
+gaggggc
+> 5
+atgaagg
+> 5
+caggagg
+> 5
+ggagagg
+> 5
+cagacag
+> 5
+gctatcc
+> 5
+aaggatt
+> 5
+gagacac
+> 5
+gaggagt
+> 5
+tagaaga
+> 5
+gctgagt
+> 5
+aagacag
+> 5
+aataagc
+> 5
+aagaagt
+> 5
+tggaagt
+> 5
+ggggagt
+> 5
+caggaga
+> 5
+aaggtgc
+> 5
+ctggagt
+> 5
+cagaagc
+> 5
+cagaggt
+> 5
+caaaaga
+> 5
+cagcctt
+> 5
+gaggaga
+> 5
+aagaatc
+> 5
+tagaaca
+> 5
+agggagt
+> 5
+agggagt
+> 5
+agaaagt
+> 5
+cagacgt
+> 5
+tcggagg
+> 5
+ctgaagc
+> 5
+ttggaga
+> 5
+caaaagt
+> 5
+caggaga
+> 5
+caggagg
+> 5
+aagagaa
+> 5
+cagacgt
+> 5
+aaaaagc
+> 5
+ctgttgt
+> 5
+gagacct
+> 5
+aagaagg
+> 5
+ccagagt
+> 5
+aagaaat
+> 5
+aggaaga
+> 5
+ctggagt
+> 5
+agggaga
+> 5
+tggaagt
+> 5
+ctggaga
+> 5
+aagattc
+> 5
+aaaaggt
+> 5
+gaaaggt
+> 5
+caggagg
+> 5
+atgaact
+> 5
+ttggagt
+> 5
+aagaaga
+> 5
+ttgaagt
+> 5
+cggaagt
+> 5
+agaaaga
+> 5
+cctaagt
+> 5
+tgaaagt
+> 5
+caggtgg
+> 5
+agaaagt
+> 5
+ccggggt
+> 5
+gaggagt
+> 5
+aagaagg
+> 5
+aagaagc
+> 5
+atgaaga
+> 5
+ctggcgg
+> 5
+gagaaat
+> 5
+aagaatg
+> 5
+aagcaga
+> 5
+gcaaagt
+> 5
+atgaagt
+> 5
+cagaaaa
+> 5
+ttgaaga
+> 5
+cagaagg
+> 5
+ctgaagt
+> 5
+aagcagt
+> 5
+cagaagt
+> 5
+gagaagc
+> 5
+agtaagc
+> 5
+aaggagg
+> 5
+cagaaga
+> 5
+caaatga
+> 5
+aaaaaga
+> 5
+ctgaagt
+> 5
+tcgaaag
+> 5
+caaaagt
+> 5
+cagacat
+> 5
+atgaaga
+> 5
+aagaggc
+> 5
+aagacag
+> 5
+gaggagc
+> 5
+aaggagt
+> 5
+agaaagt
+> 5
+aatgagt
+> 5
+gtgaagt
+> 5
+cgggagc
+> 5
+tagaagg
+> 5
+gagaagt
+> 5
+aagatgc
+> 5
+aatgagt
+> 5
+aagaagg
+> 5
+gcggagg
+> 5
+aagggga
+> 5
+cagagga
+> 5
+cagtagt
+> 5
+ggggagt
+> 5
+ccgaaga
+> 5
+gtgaaga
+> 5
+aagccag
+> 5
+cagaatg
+> 5
+ggggagt
+> 5
+aaggagg
+> 5
+ccggagc
+> 5
+agcgagt
+> 5
+gaggggt
+> 5
+atggaga
+> 5
+gaagaga
+> 5
+ctgagct
+> 5
+caggaga
+> 5
+cagaacc
+> 5
+ccgagga
+> 5
+ctggagg
+> 5
+gaagagt
+> 5
+gagaagg
+> 5
+tggatgg
+> 5
+acgatgg
+> 5
+tgggaga
+> 5
+gagaatc
+> 5
+agggagt
+> 5
+aagacga
+> 5
+cagaagg
+> 5
+gtgaagt
+> 5
+gcggagg
+> 5
+aagcaga
+> 5
+tggagga
+> 5
+ctggagt
+> 5
+gatgagc
+> 5
+cagggga
+> 5
+aaggagg
+> 5
+gagaagg
+> 5
+gaggagt
+> 5
+aaggaaa
+> 5
+tgcgagt
+> 5
+cagacca
+> 5
+gagaagg
+> 5
+ccaaagt
+> 5
+cagatca
+> 5
+gaggagg
+> 5
+aaggagg
+> 5
+aaggagc
+> 5
+aagaaag
+> 5
+aaaatcc
+> 5
+cagagga
+> 5
+ggagagt
+> 5
+atgatga
+> 5
+gcaaagt
+> 5
+caggggt
+> 5
+gaaaggt
+> 5
+cttaagt
+> 5
+cagatgc
+> 5
+acggagg
+> 5
+cgaaagt
+> 5
+cagaggc
+> 5
+gaaattg
+> 5
+ctgacgt
+> 5
+gagaggt
+> 5
+ccagagt
+> 5
+aaggagg
+> 5
+gaggggt
+> 5
+aaaaact
+> 5
+tggaagc
+> 5
+cagatgt
+> 5
+caggaga
+> 5
+gataagt
+> 5
+aggatgt
+> 5
+gaggtgt
+> 5
+gagaacc
+> 5
+cagatcc
+> 5
+aagatgc
+> 5
+atggagg
+> 5
+aagaagt
+> 5
+aaggggt
+> 5
+aaggagg
+> 5
+cagatct
+> 5
+gagagga
+> 5
+ccaaagt
+> 5
+aaaaagt
+> 5
+cggatgt
+> 5
+aagatgc
+> 5
+aagaggc
+> 5
+caggagg
+> 5
+aaggagg
+> 5
+aagaagg
+> 5
+aagaaat
+> 5
+tagaagt
+> 5
+caaaagt
+> 5
+caggagt
+> 5
+ctgatgt
+> 5
+ttgaagg
+> 5
+aaaaaga
+> 5
+ctgaagt
+> 5
+cagaatg
+> 5
+aggaagt
+> 5
+cagaaca
+> 5
+acgaagg
+> 5
+cagagga
+> 5
+acgctgc
+> 5
+cagatga
+> 5
+ctgaagt
+> 5
+agggagt
+> 5
+gcgaagt
+> 5
+ctgaggt
+> 5
+gagaatg
+> 5
+cagaaac
+> 5
+cagatgt
+> 5
+cagatgt
+> 5
+cagttgt
+> 5
+gagatac
+> 5
+cgggagt
+> 5
+actaaga
+> 5
+cagaaat
+> 5
+cagggct
+> 5
+aagaata
+> 5
+aaggaag
+> 5
+aagagag
+> 5
+aagaagt
+> 5
+aagacag
+> 5
+aagccca
+> 5
+acgatga
+> 5
+actaaga
+> 5
+aggaaga
+> 5
+ctggagt
+> 5
+aagaggt
+> 5
+gagatga
+> 5
+aaaatgt
+> 5
+tagaagt
+> 5
+gataagg
+> 5
+atgaagt
+> 5
+aagaagc
+> 5
+gtgaaat
+> 5
+acaaagc
+> 5
+gataggt
+> 5
+aagaacc
+> 5
+ctgaagt
+> 5
+actgagt
+> 5
+gataagt
+> 5
+caggagc
+> 5
+aagacta
+> 5
+atggagt
+> 5
+cagaagt
+> 5
+cagaaaa
+> 5
+cagatag
+> 5
+caggctc
+> 5
+cagactg
+> 5
+aagagcg
+> 5
+caggaga
+> 5
+ctggagg
+> 5
+tttaagt
+> 5
+aagaaga
+> 5
+gagaggc
+> 5
+gagaagt
+> 5
+cagaagg
+> 5
+cagaagg
+> 5
+caaaaga
+> 5
+cagaaaa
+> 5
+aagagga
+> 5
+aaggatg
+> 5
+ctgttgt
+> 5
+ttggggt
+> 5
+cagcact
+> 5
+aagaagg
+> 5
+aaggatg
+> 5
+ctgaagg
+> 5
+cagaggg
+> 5
+aaaaggt
+> 5
+gaggagt
+> 5
+gagaact
+> 5
+cagacca
+> 5
+ctgaagc
+> 5
+ctggagg
+> 5
+aagaaac
+> 5
+gaggagg
+> 5
+cagatgg
+> 5
+ctggagc
+> 5
+aagacca
+> 5
+tgggagt
+> 5
+gagaaca
+> 5
+tcaaagg
+> 5
+tcggagt
+> 5
+aaggagc
+> 5
+tggcagt
+> 5
+attgagc
+> 5
+atggagt
+> 5
+aagaagc
+> 5
+aagaaga
+> 5
+cagaaga
+> 5
+tctaagt
+> 5
+atgatgt
+> 5
+aagtatc
+> 5
+tttatcc
+> 5
+atggagt
+> 5
+ttgaagt
+> 5
+cccaagt
+> 5
+aagcagt
+> 5
+gagaagt
+> 5
+agggagt
+> 5
+ccaatgt
+> 5
+tctgagt
+> 5
+caggagc
+> 5
+cagcagc
+> 5
+gaggagc
+> 5
+aagaatg
+> 5
+aagcagc
+> 5
+cagaagg
+> 5
+aaggaga
+> 5
+ttggagc
+> 5
+cggaagt
+> 5
+aagatag
+> 5
+aagagag
+> 5
+cagatgt
+> 5
+aggaagt
+> 5
+cataagt
+> 5
+cagcagt
+> 5
+aagaagc
+> 5
+cagaaat
+> 5
+aagaagt
+> 5
+caaaagt
+> 5
+gaggaga
+> 5
+cagaaaa
+> 5
+aagaaat
+> 5
+acggagt
+> 5
+aagattt
+> 5
+atggagt
+> 5
+gagaagt
+> 5
+cagatgc
+> 5
+aaggaga
+> 5
+caggagt
+> 5
+aggtcgt
+> 5
+ttggagt
+> 5
+aagaaat
+> 5
+tagaact
+> 5
+gagaaga
+> 5
+aagaagt
+> 5
+cagaaat
+> 5
+caggtgt
+> 5
+aagaagc
+> 5
+caaatgc
+> 5
+aagaaaa
+> 5
+acgaggt
+> 5
+cagaaga
+> 5
+aagaatc
+> 5
+ttgacgt
+> 5
+gagaagc
+> 5
+aaaaagc
+> 5
+aagcagt
+> 5
+aaggaga
+> 5
+aagaaat
+> 5
+aagaagc
+> 5
+aagaagt
+> 5
+tggaaga
+> 5
+cagaagt
+> 5
+agggagt
+> 5
+cagaagg
+> 5
+cagagag
+> 5
+gcaatcc
+> 5
+aagctgc
+> 5
+aaggagc
+> 5
+cagcaga
+> 5
+aacgagt
+> 5
+agaaagt
+> 5
+agtgagt
+> 5
+ccggagt
+> 5
+caggagc
+> 5
+cagaaga
+> 5
+acggagt
+> 5
+cagacga
+> 5
+ttgaagt
+> 5
+tagaatc
+> 5
+tggacgt
+> 5
+gagacat
+> 5
+ccgatga
+> 5
+aagaatt
+> 5
+gagaggt
+> 5
+aggaagt
+> 5
+aaaaaga
+> 5
+caggagt
+> 5
+aggagtt
+> 5
+cataagt
+> 5
+aagacaa
+> 5
+cagtggt
+> 5
+tcggaga
+> 5
+gagagaa
+> 5
+acaaagt
+> 5
+tagttgt
+> 5
+ctcaaga
+> 5
+gaggaga
+> 5
+gcagagt
+> 5
+cagatgg
+> 5
+gagaatg
+> 5
+cagctgt
+> 5
+aaggggc
+> 5
+gtgaagt
+> 5
+aagaaga
+> 5
+ttgaagt
+> 5
+tgcgagt
+> 5
+tagattt
+> 5
+aagaatt
+> 5
+aagatgt
+> 5
+cagaagc
+> 5
+aagaaga
+> 5
+aagaaag
+> 5
+cttaagt
+> 5
+gagaagg
+> 5
+cggaagt
+> 5
+cagaaga
+> 5
+ggggagt
+> 5
+cttaggt
+> 5
+taggagt
+> 5
+gtggagt
+> 5
+cagactg
+> 5
+ctggagc
+> 5
+aaggagg
+> 5
+cagtggg
+> 5
+tcagagt
+> 5
+gagagtg
+> 5
+tagaagc
+> 5
+cccgagc
+> 5
+aagatgt
+> 5
+aagaaat
+> 5
+cagaacc
+> 5
+aagatgg
+> 5
+caaaagt
+> 5
+gagatgg
+> 5
+gataagt
+> 5
+aaggtgc
+> 5
+aaagagt
+> 5
+caggggc
+> 5
+ccagagt
+> 5
+cccaagt
+> 5
+aaggggg
+> 5
+gagctgt
+> 5
+gagaagg
+> 5
+gaggagc
+> 5
+gtggaga
+> 5
+tataagt
+> 5
+caaaagt
+> 5
+caaaagc
+> 5
+atggagt
+> 5
+tggaaga
+> 5
+caggagc
+> 5
+atgaacc
+> 5
+aagcagt
+> 5
+cagatgc
+> 5
+aagaact
+> 5
+cggaagc
+> 5
+cagatct
+> 5
+gcgatta
+> 5
+aaaaagt
+> 5
+caaaaga
+> 5
+tagatgt
+> 5
+gagaatt
+> 5
+aagaaga
+> 5
+cagaaaa
+> 5
+aaggagg
+> 5
+caggagg
+> 5
+ttcaagt
+> 5
+acgacaa
+> 5
+ctgatgt
+> 5
+cagaaat
+> 5
+cagaaca
+> 5
+tggaagt
+> 5
+cagtagt
+> 5
+cagacgt
+> 5
+ttgaagt
+> 5
+atgaatt
+> 5
+gagaaca
+> 5
+aagaaga
+> 5
+ccaaagt
+> 5
+taggagg
+> 5
+caagagt
+> 5
+cagaaga
+> 5
+atcgagt
+> 5
+caagagg
+> 5
+tggcagt
+> 5
+gaggagg
+> 5
+gagaaca
+> 5
+aataaga
+> 5
+gagaaga
+> 5
+aataagt
+> 5
+tcggaga
+> 5
+gagaaag
+> 5
+acggagt
+> 5
+cagatga
+> 5
+gagagtg
+> 5
+gaagggt
+> 5
+caggggc
+> 5
+acggaca
+> 5
+aaggggt
+> 5
+gagagag
+> 5
+acggagt
+> 5
+tggatga
+> 5
+acaaaga
+> 5
+cggaagt
+> 5
+ttgaata
+> 5
+gagaaga
+> 5
+cagaagg
+> 5
+caagagt
+> 5
+ttccttg
+> 5
+gtgaaga
+> 5
+aaggagg
+> 5
+gtgaagg
+> 5
+gaggcgg
+> 5
+aagactc
+> 5
+cagagga
+> 5
+caggcac
+> 5
+cagaagc
+> 5
+ctggagt
+> 5
+atgaagc
+> 5
+caaaagt
+> 5
+tcgaagg
+> 5
+tgcatcc
+> 5
+cagacgg
+> 5
+taggtgc
+> 5
+aagagga
+> 5
+tcggagc
+> 5
+ggggagt
+> 5
+cgggagt
+> 5
+ctggagc
+> 5
+cagactc
+> 5
+aaggagg
+> 5
+cagaagt
+> 5
+aaggcta
+> 5
+cagacga
+> 5
+ggggagg
+> 5
+atgaagt
+> 5
+ccgaagt
+> 5
+aagaaag
+> 5
+cagaggg
+> 5
+ctggagc
+> 5
+atggagt
+> 5
+cagcagc
+> 5
+gggaggc
+> 5
+ccggggt
+> 5
+ccggagt
+> 5
+gcggagc
+> 5
+gcgaagt
+> 5
+cagatgg
+> 5
+caaaagt
+> 5
+cctgagt
+> 5
+acaaagt
+> 5
+cgggagg
+> 5
+ctgaagc
+> 5
+gagacct
+> 5
+caggggc
+> 5
+aagaaga
+> 5
+gctgcgt
+> 5
+ctggagc
+> 5
+aaggcgt
+> 5
+atggagc
+> 5
+cagaagg
+> 5
+aaggagt
+> 5
+gagaaga
+> 5
+cagaaat
+> 5
+cagagga
+> 5
+aagaggc
+> 5
+aagaagt
+> 5
+cagaggc
+> 5
+aagaagt
+> 5
+gaggaag
+> 5
+aagaggt
+> 5
+aagtagc
+> 5
+atgaggt
+> 5
+cgaacgt
+> 5
+cagacct
+> 5
+aagaggc
+> 5
+tagatga
+> 5
+caagagt
+> 5
+aagaaac
+> 5
+tcgaggt
+> 5
+caggagg
+> 5
+atggagc
+> 5
+aaggagt
+> 5
+gagtggc
+> 5
+aaggagt
+> 5
+aaggagt
+> 5
+tgggagt
+> 5
+gcagagt
+> 5
+gacgagt
+> 5
+cagatgg
+> 5
+caggagg
+> 5
+caggggg
+> 5
+cagatcg
+> 5
+gaggggt
+> 5
+gagcagt
+> 5
+aagaggt
+> 5
+cagaggc
+> 5
+caggggc
+> 5
+gcggaga
+> 5
+cgggggt
+> 5
+cgggagt
+> 5
+cagacgg
+> 5
+aaggagg
+> 5
+aagacct
+> 5
+caggagt
+> 5
+tggaagg
+> 5
+cagaact
+> 5
+caggagg
+> 5
+atggagc
+> 5
+ccggagc
+> 5
+ggcgagt
+> 5
+cgaaagt
+> 5
+acggagt
+> 5
+aagatgc
+> 5
+gaggagc
+> 5
+ccaaagt
+> 5
+ccggagt
+> 5
+caggagg
+> 5
+aagaagg
+> 5
+aagatgg
+> 5
+aggaagt
+> 5
+tttatct
+> 5
+cagttat
+> 5
+cagttgt
+> 5
+ttgatga
+> 5
+gagaagg
+> 5
+caggggt
+> 5
+gaggaga
+> 5
+caggcgt
+> 5
+cgggagc
+> 5
+agggagg
+> 5
+gctgagt
+> 5
+aaggagt
+> 5
+cagaagc
+> 5
+ccgacgt
+> 5
+atggagg
+> 5
+aagacag
+> 5
+tcgaagg
+> 5
+gcagagt
+> 5
+gaggagg
+> 5
+cgaaagc
+> 5
+actgagt
+> 5
+cccatgt
+> 5
+caggaga
+> 5
+tagagga
+> 5
+cagaccc
+> 5
+caggagg
+> 5
+ggagagt
+> 5
+ctggagc
+> 5
+cgggagc
+> 5
+ccgaggt
+> 5
+gaagagt
+> 5
+aaggagg
+> 5
+aagacac
+> 5
+caggagg
+> 5
+ggggagt
+> 5
+cagacta
+> 5
+cagaggg
+> 5
+ccagagt
+> 5
+aagatct
+> 5
+aaggggt
+> 5
+gtggagt
+> 5
+ctggaga
+> 5
+aagactg
+> 5
+caggaga
+> 5
+acagagg
+> 5
+caggagg
+> 5
+caggcgc
+> 5
+aagaagg
+> 5
+gagaggg
+> 5
+gaggggc
+> 5
+gtcatcc
+> 5
+ctggagt
+> 5
+tggaagc
+> 5
+aagaagg
+> 5
+aaggcga
+> 5
+ctggagc
+> 5
+caggggg
+> 5
+aagaagg
+> 5
+aagagga
+> 5
+cagaccc
+> 5
+cggccgt
+> 5
+cagatga
+> 5
+gaggagg
+> 5
+gatgagt
+> 5
+gataagc
+> 5
+ctcaagt
+> 5
+cagaacc
+> 5
+tagatgt
+> 5
+aaaaagt
+> 5
+caggagg
+> 5
+gagatga
+> 5
+aaggggt
+> 5
+caggagt
+> 5
+tcggggt
+> 5
+ctggagt
+> 5
+caggagc
+> 5
+gagaaca
+> 5
+cagatct
+> 5
+acgaaga
+> 5
+cagactc
+> 5
+aaggagc
+> 5
+cagactc
+> 5
+atggagg
+> 5
+ttgactg
+> 5
+gggacgc
+> 5
+cggatct
+> 5
+caggcag
+> 5
+ccgaact
+> 5
+cagaaga
+> 5
+caggggt
+> 5
+gagcagt
+> 5
+aagaggc
+> 5
+atggcgt
+> 5
+gataggt
+> 5
+gtgatgt
+> 5
+agaacgt
+> 5
+gagtaga
+> 5
+atggagg
+> 5
+cagagac
+> 5
+caggagc
+> 5
+cagaagt
+> 5
+aagacag
+> 5
+atgaaga
+> 5
+cagaagg
+> 5
+cagaagg
+> 5
+agaaagt
+> 5
+atagagt
+> 5
+ctgaagt
+> 5
+ggtgagt
+> 5
+caggagg
+> 5
+gaggggt
+> 5
+tcggagt
+> 5
+tgggagc
+> 5
+gaggagg
+> 5
+cataagc
+> 5
+gtggcgt
+> 5
+cagaatt
+> 5
+ccggagc
+> 5
+caggaga
+> 5
+attaagt
+> 5
+tggaaga
+> 5
+caggtgg
+> 5
+caggtgc
+> 5
+atggagc
+> 5
+aggaagt
+> 5
+cagatgg
+> 5
+aaggtgt
+> 5
+cagacgg
+> 5
+gtggagt
+> 5
+caggagc
+> 5
+ggcgagt
+> 5
+gcggagg
+> 5
+aagattc
+> 5
+cgcgagt
+> 5
+gaggagc
+> 5
+caggagg
+> 5
+cagaccc
+> 5
+cagcagt
+> 5
+aatgagt
+> 5
+gccgagc
+> 5
+gaggagg
+> 5
+ttcgagt
+> 5
+gaggagg
+> 5
+taggagt
+> 5
+aaggagc
+> 5
+caaaagg
+> 5
+gaggggc
+> 5
+caggacc
+> 5
+ggggagt
+> 5
+aagaaag
+> 5
+aatgagt
+> 5
+ctgaatg
+> 5
+atggagg
+> 5
+agggagg
+> 5
+tgggggt
+> 5
+agagagc
+> 5
+gaggaag
+> 5
+tcaaaga
+> 5
+cagggga
+> 5
+aagcagc
+> 5
+aaggaga
+> 5
+acggagg
+> 5
+gtgaagt
+> 5
+cagaccg
+> 5
+caggagg
+> 5
+tgggagc
+> 5
+gaggagc
+> 5
+cagaagg
+> 5
+acagagt
+> 5
+agggagc
+> 5
+cgaaagt
+> 5
+aagagtg
+> 5
+ctgaaga
+> 5
+caaaagt
+> 5
+cataagt
+> 5
+aagaacc
+> 5
+cggaagc
+> 5
+aagttga
+> 5
+caggagt
+> 5
+caggagg
+> 5
+gaggagg
+> 5
+acgaatg
+> 5
+aagacag
+> 5
+gaggaat
+> 5
+ctgatgg
+> 5
+cagacat
+> 5
+aaggtgg
+> 5
+aagatag
+> 5
+cagacta
+> 5
+caggagt
+> 5
+agtaagt
+> 5
+cagacat
+> 5
+agggagc
+> 5
+tgtaagt
+> 5
+cagatgt
+> 5
+tcgaaga
+> 5
+gagaagg
+> 5
+tgggagt
+> 5
+caggaaa
+> 5
+ctgaagc
+> 5
+gagactt
+> 5
+aagaagc
+> 5
+tagatga
+> 5
+gataggt
+> 5
+agaaagt
+> 5
+aagaagt
+> 5
+caggagt
+> 5
+gacgagt
+> 5
+acggagg
+> 5
+gagatgc
+> 5
+caggcaa
+> 5
+atcaagt
+> 5
+caggcgc
+> 5
+atgcagt
+> 5
+cagaggg
+> 5
+aagaagg
+> 5
+gatgagc
+> 5
+cgggagc
+> 5
+aaggatg
+> 5
+aagtggg
+> 5
+gtgaggt
+> 5
+cagacaa
+> 5
+cagacat
+> 5
+tttaagt
+> 5
+aaggagt
+> 5
+cagatct
+> 5
+tcgatga
+> 5
+aatgagg
+> 5
+caggaca
+> 5
+aagagga
+> 5
+gtggagt
+> 5
+caaaaga
+> 5
+aagcagt
+> 5
+gagttgt
+> 5
+ctgaagt
+> 5
+taggggt
+> 5
+tgtaagt
+> 5
+caggagt
+> 5
+ccgaggt
+> 5
+cagaaaa
+> 5
+caggaga
+> 5
+cagacgg
+> 5
+caggggg
+> 5
+aataagc
+> 5
+cggaagg
+> 5
+acggagg
+> 5
+agggagg
+> 5
+caggagt
+> 5
+caggagt
+> 5
+cagcagt
+> 5
+cagaatt
+> 5
+gtgatgt
+> 5
+aaggagt
+> 5
+aagagca
+> 5
+gtgaagc
+> 5
+cgaaagt
+> 5
+cagctgt
+> 5
+gtgaagt
+> 5
+agtgagt
+> 5
+atggagg
+> 5
+accgagt
+> 5
+tctgagt
+> 5
+ctgaagt
+> 5
+ctggagt
+> 5
+gggtagt
+> 5
+aaggagg
+> 5
+cagaatt
+> 5
+atggagc
+> 5
+caggccg
+> 5
+gaggagg
+> 5
+caggagt
+> 5
+tcggagg
+> 5
+ctggagg
+> 5
+acagagg
+> 5
+aggaagg
+> 5
+gagaaca
+> 5
+ttggagc
+> 5
+atcgagt
+> 5
+gtggagc
+> 5
+cggatgg
+> 5
+caggaca
+> 5
+acggagg
+> 5
+caggagc
+> 5
+ggggagg
+> 5
+aagacat
+> 5
+aaggagc
+> 5
+aaagagt
+> 5
+gagctga
+> 5
+gaggagt
+> 5
+cagaggg
+> 5
+ccggagt
+> 5
+cacgaga
+> 5
+agggagg
+> 5
+aaggagg
+> 5
+gaggggt
+> 5
+tagaagg
+> 5
+cggaagg
+> 5
+gaggaga
+> 5
+aagaaga
+> 5
+aagaggt
+> 5
+tggaagt
+> 5
+aaggagc
+> 5
+ttcgagt
+> 5
+caggagc
+> 5
+gaggatc
+> 5
+aaggcct
+> 5
+gaggcgg
+> 5
+cagaagt
+> 5
+caggagc
+> 5
+cagatgg
+> 5
+cgggcgt
+> 5
+cagattg
+> 5
+cagaagg
+> 5
+gccaaga
+> 5
+gcagagt
+> 5
+aaggatc
+> 5
+caggaga
+> 5
+aaggtgc
+> 5
+acagagt
+> 5
+gaggagt
+> 5
+aaggaga
+> 5
+gaggagc
+> 5
+ggcgagt
+> 5
+aaggagg
+> 5
+caggaga
+> 5
+ctggagt
+> 5
+acgactg
+> 5
+cagaggg
+> 5
+caggaga
+> 5
+aaggcct
+> 5
+gaggagt
+> 5
+caggcgg
+> 5
+acggagc
+> 5
+tgggaga
+> 5
+caggagt
+> 5
+cagaacc
+> 5
+ccggagg
+> 5
+cagttgt
+> 5
+aaggggt
+> 5
+gaggagg
+> 5
+aggatgg
+> 5
+aaggagc
+> 5
+gaggagc
+> 5
+aagaaga
+> 5
+cagaggg
+> 5
+gcgaagg
+> 5
+caggagc
+> 5
+agtaagc
+> 5
+gagaacg
+> 5
+aaggtgc
+> 5
+caggaga
+> 5
+atgagga
+> 5
+cagagca
+> 5
+ggggagg
+> 5
+aagcagg
+> 5
+caggagg
+> 5
+agggagg
+> 5
+cagctgt
+> 5
+aagaagg
+> 5
+agggagg
+> 5
+cagaggt
+> 5
+cgagagt
+> 5
+caggggg
+> 5
+accgagt
+> 5
+aagaagt
+> 5
+gaaaagt
+> 5
+ttggagt
+> 5
+aagaagc
+> 5
+gagaatc
+> 5
+aaggagg
+> 5
+ggggagg
+> 5
+gggaggt
+> 5
+cagcagc
+> 5
+atggagc
+> 5
+cagaccg
+> 5
+gaagagt
+> 5
+tagagcc
+> 5
+caggcac
+> 5
+gaggagc
+> 5
+aaggggg
+> 5
+gaggagc
+> 5
+aagaggc
+> 5
+gcagagt
+> 5
+tagaagc
+> 5
+aagggcc
+> 5
+taaaaga
+> 5
+caggggc
+> 5
+cgagagt
+> 5
+agggagt
+> 5
+agggagg
+> 5
+gagttgt
+> 5
+gaggatt
+> 5
+ggtaagt
+> 5
+cagaaag
+> 5
+aagttgt
+> 5
+aatgagt
+> 5
+aagcagg
+> 5
+acagagc
+> 5
+caggggc
+> 5
+ccggagt
+> 5
+caggagc
+> 5
+ccagagt
+> 5
+aagaccg
+> 5
+gaggagt
+> 5
+gtgaggt
+> 5
+aggaagt
+> 5
+cagaaca
+> 5
+cagctga
+> 5
+gaggagc
+> 5
+cgcgagt
+> 5
+caggagc
+> 5
+gagaagc
+> 5
+gtggagt
+> 5
+gaggggg
+> 5
+atggagg
+> 5
+cagaggg
+> 5
+tgggagg
+> 5
+gaggagg
+> 5
+cagccgt
+> 5
+taggagg
+> 5
+ctggcgc
+> 5
+cagaagg
+> 5
+caaaagg
+> 5
+cagacca
+> 5
+caggagc
+> 5
+gagaaga
+> 5
+caaaact
+> 5
+accgagt
+> 5
+caggcca
+> 5
+taggaga
+> 5
+ctgaaga
+> 5
+ctggagt
+> 5
+acggagg
+> 5
+aaggagg
+> 5
+acgaagt
+> 5
+ggggagt
+> 5
+caggagc
+> 5
+aaggggg
+> 5
+acggagc
+> 5
+aaggagg
+> 5
+aaggccc
+> 5
+cagcggc
+> 5
+aaggtgt
+> 5
+aacaagt
+> 5
+gagaagg
+> 5
+ttgaagt
+> 5
+aagagcc
+> 5
+aagggtt
+> 5
+ccagagg
+> 5
+cgggagt
+> 5
+cagacct
+> 5
+ctggagt
+> 5
+gagacgt
+> 5
+cccgagt
+> 5
+caggagt
+> 5
+aagaagg
+> 5
+ctggagt
+> 5
+cacgagt
+> 5
+agggagg
+> 5
+gagagtg
+> 5
+agggagc
+> 5
+aaggagc
+> 5
+gaggagg
+> 5
+caggagc
+> 5
+cagacgt
+> 5
+caggggc
+> 5
+cagaggc
+> 5
+ccggagg
+> 5
+agggagg
+> 5
+tagatga
+> 5
+aaggaga
+> 5
+aagatgt
+> 5
+caggcgc
+> 5
+cctgagt
+> 5
+aagagcg
+> 5
+gagaggg
+> 5
+aaggtgt
+> 5
+caggggc
+> 5
+caggagc
+> 5
+aagacga
+> 5
+aagagga
+> 5
+cgggagt
+> 5
+gagaccg
+> 5
+gtggagt
+> 5
+caggagt
+> 5
+caggaga
+> 5
+cagaggt
+> 5
+cagaagt
+> 5
+cgggagg
+> 5
+caggggg
+> 5
+aaggagt
+> 5
+ggtgagt
+> 5
+agggggt
+> 5
+gagattg
+> 5
+gaggagt
+> 5
+agtgagc
+> 5
+cccgagt
+> 5
+cagaaga
+> 5
+ctgaggt
+> 5
+aaggagg
+> 5
+gcttggc
+> 5
+aagacgg
+> 5
+gggaagc
+> 5
+cagaact
+> 5
+aagaaag
+> 5
+aagtaga
+> 5
+aataagt
+> 5
+aagatca
+> 5
+caggagt
+> 5
+caggagc
+> 5
+cagaagg
+> 5
+gacaagt
+> 5
+cagatgg
+> 5
+aaggagt
+> 5
+tgagagt
+> 5
+aaggagg
+> 5
+aatgagc
+> 5
+gagggga
+> 5
+actgagc
+> 5
+caggagc
+> 5
+cagggga
+> 5
+acgaagt
+> 5
+gaggagt
+> 5
+cagatgg
+> 5
+caggtgc
+> 5
+cagatgg
+> 5
+cagttgt
+> 5
+aaggagc
+> 5
+gagaaca
+> 5
+cagacgg
+> 5
+aagaagg
+> 5
+caggtct
+> 5
+aaggctg
+> 5
+gaggaga
+> 5
+gcggagt
+> 5
+acggagt
+> 5
+ttggagt
+> 5
+cgggaga
+> 5
+taggacc
+> 5
+aagacaa
+> 5
+gtggagt
+> 5
+gaggaga
+> 5
+aagaggg
+> 5
+acggagg
+> 5
+gagcggc
+> 5
+caggcgt
+> 5
+cagacag
+> 5
+ctgaaat
+> 5
+ggggagc
+> 5
+caggagc
+> 5
+gagacga
+> 5
+aacaagc
+> 5
+ccgagct
+> 5
+ggcaagt
+> 5
+aagaggg
+> 5
+aggaagc
+> 5
+cagaccc
+> 5
+gagggct
+> 5
+aggtggt
+> 5
+gagaaca
+> 5
+gaggatt
+> 5
+ccggagc
+> 5
+aatgagg
+> 5
+cagaaca
+> 5
+aaggaga
+> 5
+aagtttt
+> 5
+cagaatt
+> 5
+aggaagt
+> 5
+aacaagt
+> 5
+gaggagg
+> 5
+aaggtgt
+> 5
+ccggagt
+> 5
+ctcgagt
+> 5
+tcggaga
+> 5
+tgaacgg
+> 5
+aatgagt
+> 5
+tggaaga
+> 5
+caggtgt
+> 5
+caggcgg
+> 5
+caggcgg
+> 5
+tcgaagt
+> 5
+cagcagc
+> 5
+aaggagg
+> 5
+gagagga
+> 5
+ctgacat
+> 5
+caagagc
+> 5
+caggagc
+> 5
+aaggaga
+> 5
+cagatgg
+> 5
+cagactt
+> 5
+aaggaga
+> 5
+gaggagc
+> 5
+gagatgt
+> 5
+cagaaga
+> 5
+taaaagt
+> 5
+gagaaga
+> 5
+cctgagt
+> 5
+cagagtg
+> 5
+cagaaga
+> 5
+cagagga
+> 5
+gagaagc
+> 5
+ccggggt
+> 5
+tgtaagc
+> 5
+gagaggt
+> 5
+aagacgc
+> 5
+cagacac
+> 5
+aagaata
+> 5
+cagaaaa
+> 5
+cagattt
+> 5
+tggacgt
+> 5
+cagaggt
+> 5
+atgaaat
+> 5
+tagatac
+> 5
+aaagagt
+> 5
+cagaatg
+> 5
+ccaaagt
+> 5
+tcgaagt
+> 5
+gagttgg
+> 5
+cacgagt
+> 5
+aaggggg
+> 5
+ctgaaca
+> 5
+gctgagg
+> 5
+gagaaga
+> 5
+agaaagg
+> 5
+tggcagt
+> 5
+aaggagg
+> 5
+tggaagc
+> 5
+gacaagt
+> 5
+aagaata
+> 5
+aaggacc
+> 5
+tcggtgt
+> 5
+agaaagt
+> 5
+gaggagt
+> 5
+gagaagc
+> 5
+caggcgt
+> 5
+ggggagt
+> 5
+tgggagt
+> 5
+cagaggg
+> 5
+ctgaagg
+> 5
+cagtaga
+> 5
+aaggagc
+> 5
+gagaaga
+> 5
+caggagc
+> 5
+gataagg
+> 5
+aagaagt
+> 5
+caggagg
+> 5
+caaaggg
+> 5
+ttggagt
+> 5
+aagacgg
+> 5
+gaggaga
+> 5
+gagaaga
+> 5
+taggagc
+> 5
+acaaagt
+> 5
+gagaggt
+> 5
+ctgaact
+> 5
+gagaaaa
+> 5
+aaggagt
+> 5
+agtaagt
+> 5
+cagatgg
+> 5
+acggagt
+> 5
+caggggt
+> 5
+aagaaat
+> 5
+ccaaagt
+> 5
+ggggagt
+> 5
+gtgaagt
+> 5
+tcggagt
+> 5
+gagaagt
+> 5
+cagagga
+> 5
+aaaaagt
+> 5
+atgacat
+> 5
+cctgagt
+> 5
+aagaaga
+> 5
+aggaagt
+> 5
+tgggaga
+> 5
+tcgaaat
+> 5
+cagatgt
+> 5
+cagaagg
+> 5
+aaaaggt
+> 5
+tgggcgt
+> 5
+cgggagt
+> 5
+tggaaga
+> 5
+gtaaagt
+> 5
+ggggagt
+> 5
+gaaaaga
+> 5
+tgggatc
+> 5
+cagaaag
+> 5
+caggcgt
+> 5
+aagacgt
+> 5
+atgaagc
+> 5
+tcaaagt
+> 5
+aaggggg
+> 5
+aaggagg
+> 5
+acggagt
+> 5
+ttggaga
+> 5
+acgaagc
+> 5
+aaggggc
+> 5
+ccgaagc
+> 5
+gcgaagg
+> 5
+ggggagt
+> 5
+ccggagt
+> 5
+gcggagt
+> 5
+tgggagt
+> 5
+cagactg
+> 5
+gagaagt
+> 5
+tagatgt
+> 5
+acgaata
+> 5
+cagataa
+> 5
+ctaaagt
+> 5
+cagagga
+> 5
+caggggt
+> 5
+cagaaaa
+> 5
+aagtggt
+> 5
+atgaata
+> 5
+cagattt
+> 5
+atgaatt
+> 5
+aagatgt
+> 5
+tgggagt
+> 5
+cagaaag
+> 5
+cagaatc
+> 5
+aagaaaa
+> 5
+acgaagt
+> 5
+aaggaga
+> 5
+aagaaat
+> 5
+gaggagg
+> 5
+cagaaac
+> 5
+gctcagt
+> 5
+cagaatt
+> 5
+caggagt
+> 5
+cagaagt
+> 5
+cagacat
+> 5
+tgagagt
+> 5
+aagaagt
+> 5
+ctggagt
+> 5
+cagaaga
+> 5
+gagaaaa
+> 5
+cagacag
+> 5
+cagcagt
+> 5
+cagtggg
+> 5
+gagaagg
+> 5
+caggaca
+> 5
+tagaaaa
+> 5
+caaaagt
+> 5
+caggagc
+> 5
+atgaaaa
+> 5
+cagaata
+> 5
+aagaaaa
+> 5
+aagaata
+> 5
+ctgaatc
+> 5
+ctgatgt
+> 5
+atgaagg
+> 5
+gagaagc
+> 5
+acaaggt
+> 5
+cagatta
+> 5
+cacacgt
+> 5
+aaggagg
+> 5
+caacagt
+> 5
+gagaagg
+> 5
+aataagt
+> 5
+aaggaga
+> 5
+atggagt
+> 5
+aggaaac
+> 5
+aagaaat
+> 5
+caggtgt
+> 5
+atggagt
+> 5
+tggaaat
+> 5
+gggaagt
+> 5
+gctaagc
+> 5
+tggaagt
+> 5
+aaggagt
+> 5
+aagacca
+> 5
+caggtgt
+> 5
+aaggagc
+> 5
+aagaagc
+> 5
+atgactg
+> 5
+gaggagt
+> 5
+gagaagc
+> 5
+gagattt
+> 5
+caggagc
+> 5
+aaggggc
+> 5
+caggaga
+> 5
+aagaagt
+> 5
+ttggagt
+> 5
+caaaagt
+> 5
+aagaaaa
+> 5
+aagagag
+> 5
+aagattt
+> 5
+caaaagt
+> 5
+tcgaaga
+> 5
+aagaagg
+> 5
+caggagc
+> 5
+caggagt
+> 5
+gcggagt
+> 5
+cccaagt
+> 5
+aaggggt
+> 5
+agggagt
+> 5
+cataaga
+> 5
+cagaccc
+> 5
+tagagtg
+> 5
+cagacga
+> 5
+ctgaagg
+> 5
+agggaga
+> 5
+agagagt
+> 5
+cggaagc
+> 5
+gtggagt
+> 5
+cagaggt
+> 5
+aacaagt
+> 5
+ccaaagt
+> 5
+acgcagc
+> 5
+taggcgc
+> 5
+cgcgagt
+> 5
+caggggc
+> 5
+caggagt
+> 5
+cagatgt
+> 5
+acaaagt
+> 5
+aagagag
+> 5
+cgcgagt
+> 5
+gaggagg
+> 5
+caggggt
+> 5
+gagagga
+> 5
+tgggagt
+> 5
+aagaagc
+> 5
+aaaaagt
+> 5
+caggcgg
+> 5
+gagaagc
+> 5
+caggatg
+> 5
+gaagagt
+> 5
+ctggagc
+> 5
+actacgt
+> 5
+caggtgg
+> 5
+ctggagg
+> 5
+aggaggt
+> 5
+aacgagt
+> 5
+acaaagt
+> 5
+tccaagt
+> 5
+atgaagg
+> 5
+caggagc
+> 5
+cagagga
+> 5
+gtgatgt
+> 5
+ccgcagt
+> 5
+gagtcgt
+> 5
+gtgaagg
+> 5
+agggagt
+> 5
+cagatgc
+> 5
+cgggagt
+> 5
+atggagt
+> 5
+tacaagc
+> 5
+gagaagt
+> 5
+ctgaagg
+> 5
+tggactg
+> 5
+caggagg
+> 5
+ctggaga
+> 5
+caaacgt
+> 5
+cagcagt
+> 5
+cctaaga
+> 5
+cagactc
+> 5
+ctgaaga
+> 5
+gaggagt
+> 5
+aagatca
+> 5
+aaggaga
+> 5
+cagaccc
+> 5
+caggagt
+> 5
+gggatcc
+> 5
+caggagg
+> 5
+caagagg
+> 5
+cagcggt
+> 5
+aagagtg
+> 5
+accgagt
+> 5
+gaggggc
+> 5
+gggaagt
+> 5
+gcggagc
+> 5
+tagatgt
+> 5
+acgagtc
+> 5
+aagacag
+> 5
+gagggga
+> 5
+ttgaagt
+> 5
+agggagg
+> 5
+gcgaagg
+> 5
+cagaatc
+> 5
+cagcagt
+> 5
+gtgaagt
+> 5
+atggaga
+> 5
+cggaggt
+> 5
+cggaagg
+> 5
+cagaggg
+> 5
+cacgagc
+> 5
+aaggcct
+> 5
+caggagt
+> 5
+atgaagt
+> 5
+cagatgt
+> 5
+cagaagt
+> 5
+aaaaagt
+> 5
+gccatgt
+> 5
+gagacag
+> 5
+tataagt
+> 5
+aaggagc
+> 5
+gaggagc
+> 5
+aagaagt
+> 5
+cagaggg
+> 5
+aaggatt
+> 5
+acggagc
+> 5
+aagagga
+> 5
+cagaggg
+> 5
+aagaggg
+> 5
+aggattg
+> 5
+cagggga
+> 5
+aaggagt
+> 5
+gagaatc
+> 5
+cagtggt
+> 5
+ccggagg
+> 5
+cagatgt
+> 5
+aagcagt
+> 5
+gctaagt
+> 5
+ttgaaat
+> 5
+atgcagt
+> 5
+cagaggt
+> 5
+cagaagt
+> 5
+aagaaga
+> 5
+aataagt
+> 5
+actgagt
+> 5
+gaggtgt
+> 5
+gctgagt
+> 5
+gtggagt
+> 5
+acgaagg
+> 5
+cacgagt
+> 5
+acagagt
+> 5
+cagaaac
+> 5
+aagaaaa
+> 5
+gcgaagc
+> 5
+cagaaaa
+> 5
+cagaacc
+> 5
+cagaagc
+> 5
+cagaggc
+> 5
+gagaacc
+> 5
+tgagagt
+> 5
+cagaatg
+> 5
+aaggagg
+> 5
+cagagga
+> 5
+acggagt
+> 5
+gaggaga
+> 5
+cagagga
+> 5
+gaggagg
+> 5
+caggagt
+> 5
+taggaga
+> 5
+ccgaagg
+> 5
+gggaggt
+> 5
+agggagg
+> 5
+aaggcac
+> 5
+tgggagg
+> 5
+ccagagt
+> 5
+ctggagc
+> 5
+gaggagg
+> 5
+gagaggc
+> 5
+caggggc
+> 5
+gagaagg
+> 5
+atgaggt
+> 5
+cagatct
+> 5
+atgaagg
+> 5
+actgagt
+> 5
+ttgaagc
+> 5
+gggaatg
+> 5
+attgagt
+> 5
+caggagg
+> 5
+cagaccc
+> 5
+caggtgt
+> 5
+aagatga
+> 5
+caggagg
+> 5
+tggaaga
+> 5
+tggaagg
+> 5
+agtgagg
+> 5
+gagaatt
+> 5
+cagaggt
+> 5
+caaaagt
+> 5
+caggagg
+> 5
+aagaaac
+> 5
+atggagc
+> 5
+cagggcc
+> 5
+gaggggg
+> 5
+cagaact
+> 5
+ccggagg
+> 5
+aagaagt
+> 5
+atggagt
+> 5
+aggatgt
+> 5
+cagaaga
+> 5
+cagcagt
+> 5
+gagacgt
+> 5
+cagaaga
+> 5
+caggtgc
+> 5
+cagatgt
+> 5
+acggaga
+> 5
+aagagcg
+> 5
+gataagt
+> 5
+tagaata
+> 5
+aagatgt
+> 5
+gataagg
+> 5
+gaggcgg
+> 5
+gcgaagt
+> 5
+caggagg
+> 5
+ccgaagt
+> 5
+atgaaga
+> 5
+caggagg
+> 5
+aaggccc
+> 5
+atgaagg
+> 5
+gaggtgg
+> 5
+cacaggt
+> 5
+ctgagga
+> 5
+cagtagt
+> 5
+cagaacc
+> 5
+caggagg
+> 5
+caggagg
+> 5
+acgacag
+> 5
+aacgagt
+> 5
+caggggt
+> 5
+aggaagg
+> 5
+caggggc
+> 5
+aagcagc
+> 5
+accgcgt
+> 5
+caggagg
+> 5
+aagaccc
+> 5
+cgggagt
+> 5
+caggggc
+> 5
+gaagagt
+> 5
+aaaaaga
+> 5
+cctaagt
+> 5
+cagatgg
+> 5
+ctggagt
+> 5
+caggggg
+> 5
+aagacgg
+> 5
+caggagc
+> 5
+caaaaga
+> 5
+ttggagt
+> 5
+tgaaagg
+> 5
+ggcaagt
+> 5
+caggagg
+> 5
+cagaggt
+> 5
+ctgatgg
+> 5
+tgagagt
+> 5
+ttgaagt
+> 5
+aagaaat
+> 5
+ttggagt
+> 5
+gaggggc
+> 5
+caggagg
+> 5
+caggagg
+> 5
+cagatgt
+> 5
+tcggcgt
+> 5
+caggacc
+> 5
+atggagc
+> 5
+aaaacgt
+> 5
+atgaagt
+> 5
+tcagagt
+> 5
+tggaaga
+> 5
+cagaggt
+> 5
+caaaagt
+> 5
+ggcaagt
+> 5
+aagcaga
+> 5
+cagccag
+> 5
+cagaagg
+> 5
+aagaagg
+> 5
+cagttgt
+> 5
+aaggagg
+> 5
+tagaatg
+> 5
+gaggtgt
+> 5
+caaatcc
+> 5
+gcagagt
+> 5
+aagacat
+> 5
+atgatga
+> 5
+aagaagc
+> 5
+tagtaat
+> 5
+aagataa
+> 5
+gagaagg
+> 5
+cagacca
+> 5
+atggagt
+> 5
+aaaaagt
+> 5
+tatgagt
+> 5
+atgaaaa
+> 5
+cagtagg
+> 5
+cagacac
+> 5
+cccgagt
+> 5
+ttggagt
+> 5
+cagaaag
+> 5
+gaggaga
+> 5
+gagaatt
+> 5
+aaggagg
+> 5
+cagaggt
+> 5
+cagaagc
+> 5
+aggaggt
+> 5
+ccgaggt
+> 5
+aaggggc
+> 5
+gagctgg
+> 5
+ttggagt
+> 5
+gaggggg
+> 5
+gggacac
+> 5
+ccggagc
+> 5
+aaggagg
+> 5
+tggatgg
+> 5
+acggagg
+> 5
+caggagc
+> 5
+caggtgt
+> 5
+ccgaaga
+> 5
+gtggagt
+> 5
+agggagt
+> 5
+cctgagc
+> 5
+gaggagt
+> 5
+gaggagg
+> 5
+cagagcc
+> 5
+cagaagt
+> 5
+tcggagt
+> 5
+aaagagg
+> 5
+caggaga
+> 5
+aggaggt
+> 5
+caggagc
+> 5
+aaggagg
+> 5
+cagaagc
+> 5
+gaggggt
+> 5
+atggagc
+> 5
+cagcagt
+> 5
+caggagc
+> 5
+caggaga
+> 5
+cagtggc
+> 5
+aaggtga
+> 5
+caggcct
+> 5
+ggggagg
+> 5
+taggagg
+> 5
+ctggaga
+> 5
+taggcgt
+> 5
+tcggagc
+> 5
+gaggaag
+> 5
+caagagt
+> 5
+gaggagg
+> 5
+tgagagg
+> 5
+cagaggc
+> 5
+aaagagt
+> 5
+tggaagt
+> 5
+cagaagt
+> 5
+cagaggc
+> 5
+aaggaag
+> 5
+agtgggt
+> 5
+gtggaga
+> 5
+cgggagg
+> 5
+tgggagc
+> 5
+agggaga
+> 5
+cgcgagt
+> 5
+agtgaga
+> 5
+gcggagc
+> 5
+gaggagg
+> 5
+tcggggt
+> 5
+atggagt
+> 5
+gtggagc
+> 5
+caggagc
+> 5
+gagaagc
+> 5
+aaggtgg
+> 5
+tcggagg
+> 5
+cagaagg
+> 5
+tagagga
+> 5
+cagcagc
+> 5
+gaggagt
+> 5
+cagaggc
+> 5
+acgaagg
+> 5
+gagaact
+> 5
+caggagc
+> 5
+aaggcga
+> 5
+gttgagt
+> 5
+atggagt
+> 5
+caggagt
+> 5
+cgggaga
+> 5
+aaacagt
+> 5
+aagaagg
+> 5
+ctgaggt
+> 5
+cagttga
+> 5
+aaggagt
+> 5
+atggagg
+> 5
+atggagt
+> 5
+cagactt
+> 5
+catgagt
+> 5
+aaggaga
+> 5
+aaggaag
+> 5
+tggatga
+> 5
+ccagagc
+> 5
+cagactg
+> 5
+ctgaagc
+> 5
+ggaaagc
+> 5
+aagcagt
+> 5
+cgtaagt
+> 5
+cagatgg
+> 5
+gaaaagt
+> 5
+gagaagg
+> 5
+cggaagt
+> 5
+atggagg
+> 5
+gagttga
+> 5
+aagaaga
+> 5
+aaggagc
+> 5
+aagtagt
+> 5
+aagaata
+> 5
+tggaagt
+> 5
+cagcgga
+> 5
+aagacat
+> 5
+ttgatgt
+> 5
+aagaaga
+> 5
+cagaaga
+> 5
+aagaaat
+> 5
+acaaaga
+> 5
+cggaagg
+> 5
+aaggagt
+> 5
+ccaaagt
+> 5
+tagaagc
+> 5
+gataagt
+> 5
+gagatgg
+> 5
+aaagagc
+> 5
+aagaaag
+> 5
+tggaatt
+> 5
+attaagt
+> 5
+gagaatt
+> 5
+cagtaga
+> 5
+aataagt
+> 5
+aaggcca
+> 5
+gacaagt
+> 5
+gagacgt
+> 5
+aataagc
+> 5
+caggagt
+> 5
+aagaagg
+> 5
+aagagaa
+> 5
+caggtgt
+> 5
+cagaagt
+> 5
+gaaaagt
+> 5
+aataagt
+> 5
+ctgactg
+> 5
+cagatca
+> 5
+cctgagt
+> 5
+gtggagt
+> 5
+gaaaagt
+> 5
+caggagt
+> 5
+cagaagt
+> 5
+aaattgt
+> 5
+cagaaat
+> 5
+aaaaggt
+> 5
+aagaggt
+> 5
+caggctg
+> 5
+cagtggg
+> 5
+caggtgg
+> 5
+ctcaagt
+> 5
+gagaaat
+> 5
+actatgt
+> 5
+gaggctt
+> 5
+aagacac
+> 5
+ttgacca
+> 5
+ccggagg
+> 5
+cagaggt
+> 5
+gagaccg
+> 5
+atgaaga
+> 5
+aagaggt
+> 5
+gtgacgt
+> 5
+tagacgt
+> 5
+tcggagc
+> 5
+caggaga
+> 5
+aaggagt
+> 5
+tggacgt
+> 5
+ccaatgt
+> 5
+gagaagg
+> 5
+ggggagt
+> 5
+gatatcc
+> 5
+gatgagt
+> 5
+agaaagt
+> 5
+gcaaagt
+> 5
+aagaaaa
+> 5
+aagagaa
+> 5
+gtggaga
+> 5
+tctgagt
+> 5
+aagattt
+> 5
+caggagt
+> 5
+agaaaga
+> 5
+cgaaagt
+> 5
+aagaaaa
+> 5
+taaaagt
+> 5
+caggcgc
+> 5
+cagacct
+> 5
+aagaaat
+> 5
+aagagaa
+> 5
+aagactg
+> 5
+cagaagt
+> 5
+acgaaat
+> 5
+gagaggc
+> 5
+aaggcaa
+> 5
+acggagc
+> 5
+caggagt
+> 5
+cagaaga
+> 5
+caggagg
+> 5
+gtggagt
+> 5
+cagactg
+> 5
+gagaaaa
+> 5
+cttaagt
+> 5
+atgatga
+> 5
+ccgaggt
+> 5
+caggagt
+> 5
+cagaggt
+> 5
+aagaaac
+> 5
+taggact
+> 5
+acgaagt
+> 5
+aaggagc
+> 5
+tagacgt
+> 5
+cagaggg
+> 5
+aaggggt
+> 5
+tccgagt
+> 5
+caggggt
+> 5
+cagaacc
+> 5
+cagaact
+> 5
+cagactg
+> 5
+cgggagt
+> 5
+gagatgg
+> 5
+aggaagt
+> 5
+caggagg
+> 5
+aagcagt
+> 5
+gagaaag
+> 5
+caggagc
+> 5
+gaagagt
+> 5
+aagacag
+> 5
+gaaaagt
+> 5
+aagaaat
+> 5
+cagaaat
+> 5
+gagtagt
+> 5
+cagggga
+> 5
+cagaaag
+> 5
+cagcagt
+> 5
+cagattg
+> 5
+cctgagt
+> 5
+cctaagt
+> 5
+actaagt
+> 5
+tctaagt
+> 5
+atgaagg
+> 5
+acgaatg
+> 5
+ttgaaac
+> 5
+cagaagt
+> 5
+cagaatt
+> 5
+cagaact
+> 5
+cagaaaa
+> 5
+cagaacc
+> 5
+acaaagt
+> 5
+tagaggg
+> 5
+cgtgagt
+> 5
+accaagt
+> 5
+ccggagt
+> 5
+ggggagc
+> 5
+caggggt
+> 5
+tcggagt
+> 5
+caggcac
+> 5
+caggagc
+> 5
+cagtagt
+> 5
+gataagt
+> 5
+acaaagt
+> 5
+gcgaagc
+> 5
+cagaaga
+> 5
+ctgaagg
+> 5
+atgaagg
+> 5
+cagaaga
+> 5
+actaagt
+> 5
+caggctt
+> 5
+cagaaga
+> 5
+cagaccc
+> 5
+caggaga
+> 5
+agcgagt
+> 5
+cagaaga
+> 5
+caggtga
+> 5
+cagaggg
+> 5
+tcggaga
+> 5
+cagagct
+> 5
+ctgaagt
+> 5
+cagatgt
+> 5
+caagagt
+> 5
+ccgaaca
+> 5
+gataagc
+> 5
+cagaagg
+> 5
+gagaaag
+> 5
+cggaagt
+> 5
+gaaaaga
+> 5
+aagctga
+> 5
+gtgaaga
+> 5
+caggagc
+> 5
+cagaaag
+> 5
+cagaaga
+> 5
+ctggagt
+> 5
+cagattt
+> 5
+ctgaagt
+> 5
+aaaaagt
+> 5
+aggaagt
+> 5
+taggaga
+> 5
+aagaagt
+> 5
+gagatag
+> 5
+gaggagg
+> 5
+gaggagg
+> 5
+caggaga
+> 5
+gagaaat
+> 5
+aggatgc
+> 5
+aagagga
+> 5
+aagactg
+> 5
+atgatgg
+> 5
+gggaacc
+> 5
+gaggcgt
+> 5
+gaaaagt
+> 5
+atggagc
+> 5
+caaaaga
+> 5
+cagaagg
+> 5
+caggagt
+> 5
+taggaga
+> 5
+attgagc
+> 5
+tcgcagt
+> 5
+gctgagt
+> 5
+aatgagt
+> 5
+gcggagc
+> 5
+aagaagt
+> 5
+aagactg
+> 5
+ccgaggt
+> 5
+gatgagc
+> 5
+aacgagt
+> 5
+cgagagt
+> 5
+aagaagt
+> 5
+accaagt
+> 5
+aagaaga
+> 5
+acgatgt
+> 5
+aagaagc
+> 5
+agggagt
+> 5
+cagaggt
+> 5
+gaaaagc
+> 5
+aagatgt
+> 5
+aagcagt
+> 5
+gagaagt
+> 5
+aagatgt
+> 5
+aagatcc
+> 5
+actatcc
+> 5
+atgaagc
+> 5
+attgagt
+> 5
+aagaagt
+> 5
+aggaagg
+> 5
+aggaagt
+> 5
+aaggagt
+> 5
+aagatcc
+> 5
+gagaaat
+> 5
+atgacgt
+> 5
+cagaagg
+> 5
+ggtaagt
+> 5
+taaaagt
+> 5
+tgtaagt
+> 5
+ttcaagt
+> 5
+tcggggt
+> 5
+ctggtgt
+> 5
+ggtaagt
+> 5
+cgggagg
+> 5
+tcggagt
+> 5
+ccggagc
+> 5
+gaggagg
+> 5
+caggtat
+> 5
+cagaaga
+> 5
+gaggggc
+> 5
+ttggagt
+> 5
+caggagt
+> 5
+gaggagt
+> 5
+tgaaagt
+> 5
+ctggagt
+> 5
+gaggaga
+> 5
+atgaagt
+> 5
+caggggt
+> 5
+cagacgg
+> 5
+caggagc
+> 5
+caggagg
+> 5
+gaaaagt
+> 5
+aagaaga
+> 5
+gttaagt
+> 5
+ttggagg
+> 5
+cagggga
+> 5
+tgtgagt
+> 5
+atcatcc
+> 5
+caggagg
+> 5
+cagaacc
+> 5
+aagaaga
+> 5
+tagaaga
+> 5
+gagatac
+> 5
+ccgaagt
+> 5
+cagaacg
+> 5
+aaggagt
+> 5
+gaggagt
+> 5
+caggagc
+> 5
+gcaaagt
+> 5
+aagaccg
+> 5
+caggagt
+> 5
+gaggagc
+> 5
+caggatg
+> 5
+cagatgc
+> 5
+cccgggt
+> 5
+aagaggt
+> 5
+tttgagt
+> 5
+ctggagc
+> 5
+gagaagc
+> 5
+cagattg
+> 5
+gaagagt
+> 5
+aaggctc
+> 5
+actgagt
+> 5
+aaaaagt
+> 5
+aagatgt
+> 5
+cagaacc
+> 5
+agggagg
+> 5
+agaaggt
+> 5
+ttgaagg
+> 5
+ggggtgt
+> 5
+agcgagc
+> 5
+tcggagt
+> 5
+aggatag
+> 5
+cagaagc
+> 5
+caggggt
+> 5
+gaagagg
+> 5
+cagcagt
+> 5
+taggaga
+> 5
+gctgagt
+> 5
+cataagt
+> 5
+cagatga
+> 5
+cagaagt
+> 5
+gatatgt
+> 5
+ctggagc
+> 5
+cagaatg
+> 5
+caggagc
+> 5
+tggaatg
+> 5
+gcggagt
+> 5
+aagatgt
+> 5
+gtgaagg
+> 5
+aagattt
+> 5
+caagagt
+> 5
+gagaagg
+> 5
+tagaagc
+> 5
+cataggt
+> 5
+gctaagt
+> 5
+cagaaaa
+> 5
+tagaaga
+> 5
+cagagga
+> 5
+cagagtg
+> 5
+gggaagc
+> 5
+gagaggg
+> 5
+aaggagg
+> 5
+tcagagt
+> 5
+aagactg
+> 5
+ccggagc
+> 5
+aagaact
+> 5
+cagttgt
+> 5
+caggagt
+> 5
+tcggagg
+> 5
+aagaaat
+> 5
+catgagt
+> 5
+cagcaac
+> 5
+cagacca
+> 5
+atgaaga
+> 5
+agggagg
+> 5
+caggtgt
+> 5
+tggaagc
+> 5
+cggaccg
+> 5
+aagaaag
+> 5
+gatgagt
+> 5
+cagaagt
+> 5
+cagcagt
+> 5
+aaaaagc
+> 5
+tgaaggt
+> 5
+gtgatgt
+> 5
+cagaccg
+> 5
+aaggggg
+> 5
+caaatgt
+> 5
+aagaatg
+> 5
+aagatat
+> 5
+catgagt
+> 5
+acgatgt
+> 5
+tctaagt
+> 5
+caggtgt
+> 5
+tataagt
+> 5
+agggaga
+> 5
+gagcagt
+> 5
+cagattt
+> 5
+gggaatt
+> 5
+aagaaca
+> 5
+ccgaagt
+> 5
+aagaaaa
+> 5
+caggagg
+> 5
+gagataa
+> 5
+aacgagt
+> 5
+aggaaga
+> 5
+cagaggt
+> 5
+cagatga
+> 5
+cagaata
+> 5
+cagatgg
+> 5
+ctgaagt
+> 5
+tacaagt
+> 5
+cataagt
+> 5
+aaggagg
+> 5
+cagacag
+> 5
+cagagcg
+> 5
+caggctg
+> 5
+caggagg
+> 5
+ctggaga
+> 5
+cagacag
+> 5
+aagaagt
+> 5
+cagaagg
+> 5
+gagaagc
+> 5
+ttgaagt
+> 5
+caggtgt
+> 5
+caggagc
+> 5
+gggaaga
+> 5
+aaaaagt
+> 5
+ccgaaga
+> 5
+caggagg
+> 5
+actaagt
+> 5
+aatgaga
+> 5
+cagacta
+> 5
+acggagt
+> 5
+cagcaga
+> 5
+caaatgg
+> 5
+gaaaagc
+> 5
+aagattg
+> 5
+cagaaga
+> 5
+cagactg
+> 5
+agtgagt
+> 5
+cagagga
+> 5
+aagaggt
+> 5
+aagatgc
+> 5
+aagagtc
+> 5
+aagaaga
+> 5
+aagattt
+> 5
+taagagt
+> 5
+ctggagg
+> 5
+cagaggg
+> 5
+aaggagt
+> 5
+accgagt
+> 5
+cgggcgg
+> 5
+aagaaga
+> 5
+acagagt
+> 5
+atggagt
+> 5
+ttgaaac
+> 5
+tagaaga
+> 5
+ggggagt
+> 5
+aggcagg
+> 5
+tgggagc
+> 5
+tggaagg
+> 5
+gaggagg
+> 5
+gggctgc
+> 5
+gaggaga
+> 5
+cagaatg
+> 5
+gaaaaga
+> 5
+gaggtgg
+> 5
+agggagt
+> 5
+ttggaga
+> 5
+cgggagg
+> 5
+cagaagg
+> 5
+cagggat
+> 5
+ctggagt
+> 5
+cagcagg
+> 5
+ctgaagc
+> 5
+gaggagg
+> 5
+gcggagt
+> 5
+tgtgagt
+> 5
+cagcagc
+> 5
+ccggagc
+> 5
+caagagg
+> 5
+agggaga
+> 5
+cagcagt
+> 5
+aagaggt
+> 5
+taaacgt
+> 5
+cagagga
+> 5
+caggagt
+> 5
+acaacgt
+> 5
+gagcagg
+> 5
+cagaagg
+> 5
+ctagagt
+> 5
+ttagagt
+> 5
+ataaaga
+> 5
+ttgaact
+> 5
+cagatag
+> 5
+cagaatc
+> 5
+caaacgt
+> 5
+aagatgt
+> 5
+tgtaagt
+> 5
+gggaaga
+> 5
+cagattg
+> 5
+gaaaagt
+> 5
+cctaagt
+> 5
+cagaaga
+> 5
+caggagg
+> 5
+gctaagt
+> 5
+taggagc
+> 5
+gttgagt
+> 5
+caggagt
+> 5
+caggagc
+> 5
+aagaagc
+> 5
+cagaaga
+> 5
+gtggagt
+> 5
+tcagagt
+> 5
+caaaatt
+> 5
+gcggagt
+> 5
+aaaaagt
+> 5
+caaaagt
+> 5
+cataggg
+> 5
+aaggggc
+> 5
+caggagc
+> 5
+tagaggt
+> 5
+cagacca
+> 5
+gaggacg
+> 5
+agggagt
+> 5
+tggaagt
+> 5
+aggaaga
+> 5
+gaggagt
+> 5
+cacgagt
+> 5
+cagcctc
+> 5
+ccggggt
+> 5
+tagaagc
+> 5
+gcaaagt
+> 5
+tctaagt
+> 5
+gaggagt
+> 5
+ttggagc
+> 5
+tcagagt
+> 5
+cttgagt
+> 5
+cagaagg
+> 5
+caggcgg
+> 5
+cagatgt
+> 5
+gcaaggt
+> 5
+tcaaagt
+> 5
+ttgaggt
+> 5
+gatgagt
+> 5
+tggaagc
+> 5
+caggagg
+> 5
+caggaat
+> 5
+gtggagt
+> 5
+ttggaga
+> 5
+gcgatgt
+> 5
+gagaaaa
+> 5
+atgaaga
+> 5
+gataagt
+> 5
+gaggaga
+> 5
+gagacca
+> 5
+cagacag
+> 5
+tgggagc
+> 5
+agggagt
+> 5
+catgagt
+> 5
+cagaaga
+> 5
+aaaatgt
+> 5
+gagaatg
+> 5
+gcggagt
+> 5
+cagaagg
+> 5
+acgaggt
+> 5
+acaaagt
+> 5
+cagagaa
+> 5
+acgatgt
+> 5
+caggagg
+> 5
+gacgagc
+> 5
+cagacag
+> 5
+caaaggt
+> 5
+caggggt
+> 5
+gggaggg
+> 5
+cagtagc
+> 5
+cagaagc
+> 5
+gacaagt
+> 5
+cagagga
+> 5
+aagatgg
+> 5
+gagagga
+> 5
+agggagg
+> 5
+caagagt
+> 5
+ctggagt
+> 5
+taggagc
+> 5
+caggagg
+> 5
+caggaga
+> 5
+aagaacc
+> 5
+cagacgt
+> 5
+caggaga
+> 5
+tacaggt
+> 5
+cagattg
+> 5
+agaaagt
+> 5
+aagacac
+> 5
+aagaaat
+> 5
+aaaaagt
+> 5
+caaaaag
+> 5
+ctgaagg
+> 5
+agcgagt
+> 5
+cagaaac
+> 5
+cagaggg
+> 5
+caggagc
+> 5
+tggaagc
+> 5
+aagaatc
+> 5
+gggaagt
+> 5
+gtgaagt
+> 5
+caggagc
+> 5
+cagaccc
+> 5
+aagagga
+> 5
+cagaagc
+> 5
+caggctt
+> 5
+atgctgt
+> 5
+ctggagt
+> 5
+acaaagt
+> 5
+cagaaga
+> 5
+ccaaagg
+> 5
+aagaagg
+> 5
+gtgaagt
+> 5
+gtgagtg
+> 5
+aagatgt
+> 5
+tggaagt
+> 5
+tagattt
+> 5
+gaggagt
+> 5
+agaaggt
+> 5
+tagacct
+> 5
+gcagagt
+> 5
+aagaggt
+> 5
+aagaatt
+> 5
+aagaggt
+> 5
+gagaagc
+> 5
+aagaaat
+> 5
+aaggagt
+> 5
+gaggaga
+> 5
+aagagta
+> 5
+tgggagt
+> 5
+atggagc
+> 5
+tgtaagt
+> 5
+ccgaata
+> 5
+caggatg
+> 5
+gtggagt
+> 5
+ccagagt
+> 5
+aagaaca
+> 5
+cataagt
+> 5
+acgtagt
+> 5
+cagggga
+> 5
+tagaagt
+> 5
+aagatgg
+> 5
+atgaatt
+> 5
+caggggt
+> 5
+cagaaga
+> 5
+acaaagt
+> 5
+cagaatt
+> 5
+aatgagt
+> 5
+gcagagt
+> 5
+agggagt
+> 5
+tcagagt
+> 5
+aggatgt
+> 5
+catgagt
+> 5
+cagaaaa
+> 5
+gagaagt
+> 5
+aaaaggt
+> 5
+atgaggc
+> 5
+cagaaga
+> 5
+agtgagt
+> 5
+ctggagt
+> 5
+aagaata
+> 5
+aagaaag
+> 5
+aggatgt
+> 5
+gagaagt
+> 5
+aaggagt
+> 5
+cagattt
+> 5
+tgcaagt
+> 5
+aagaagc
+> 5
+gcgaata
+> 5
+gagattg
+> 5
+acgaggt
+> 5
+aagcagt
+> 5
+aagaaga
+> 5
+tagaaac
+> 5
+atgatgt
+> 5
+aaggagg
+> 5
+acggaga
+> 5
+cgagagt
+> 5
+tctgagt
+> 5
+tggaagc
+> 5
+gcaaagt
+> 5
+gagaagc
+> 5
+gagctgt
+> 5
+aaggaca
+> 5
+tagagga
+> 5
+aaggcgc
+> 5
+ccggagt
+> 5
+caggagg
+> 5
+cgggaga
+> 5
+acagagt
+> 5
+gggaggt
+> 5
+aagactt
+> 5
+tccgagt
+> 5
+aaggcgg
+> 5
+aagaacc
+> 5
+atggagc
+> 5
+gagagga
+> 5
+aagaagg
+> 5
+ctcaagt
+> 5
+ctgaaga
+> 5
+atgaaat
+> 5
+aagcagt
+> 5
+aagcagt
+> 5
+aaaaggt
+> 5
+aaaaggt
+> 5
+caggagc
+> 5
+tccgagt
+> 5
+gaggccg
+> 5
+caggagt
+> 5
+gagtagt
+> 5
+cagagga
+> 5
+atggagt
+> 5
+tggaagt
+> 5
+agaaagt
+> 5
+aagaacc
+> 5
+aagttgt
+> 5
+aagacgc
+> 5
+caggagt
+> 5
+aagaagc
+> 5
+gaggaga
+> 5
+aagaagc
+> 5
+ctgaaaa
+> 5
+gagaagg
+> 5
+ggaaagt
+> 5
+gtgaagg
+> 5
+caggagg
+> 5
+acgacag
+> 5
+ctggagt
+> 5
+attaagt
+> 5
+caggagc
+> 5
+acggagt
+> 5
+aaggagc
+> 5
+aagaaga
+> 5
+ttgaagt
+> 5
+ccgaagt
+> 5
+acggagc
+> 5
+tggaagt
+> 5
+caggaga
+> 5
+tgggagg
+> 5
+cgggagt
+> 5
+gagatgg
+> 5
+caggagt
+> 5
+ggggagt
+> 5
+tagagga
+> 5
+aataagt
+> 5
+cagcaga
+> 5
+cgtgagt
+> 5
+atggagg
+> 5
+atggagg
+> 5
+caggggt
+> 5
+ctggagg
+> 5
+gagtggt
+> 5
+aaggagt
+> 5
+acggagt
+> 5
+cctaagt
+> 5
+agagagt
+> 5
+aagagag
+> 5
+acggagc
+> 5
+agagagt
+> 5
+caggagc
+> 5
+ttggagt
+> 5
+caggagc
+> 5
+gttaagt
+> 5
+tggaaga
+> 5
+cgggagc
+> 5
+ggagagg
+> 5
+aagcagc
+> 5
+atggagc
+> 5
+aaggggc
+> 5
+ccggggt
+> 5
+caaagga
+> 5
+aaagggc
+> 5
+ataaagt
+> 5
+acgatat
+> 5
+aagtaga
+> 5
+attaagt
+> 5
+aagatgg
+> 5
+ttgaaga
+> 5
+aagaaat
+> 5
+tctgagt
+> 5
+aagaagt
+> 5
+agaaagt
+> 5
+aggaagt
+> 5
+aagaagt
+> 5
+taggatg
+> 5
+atgaaga
+> 5
+gataagt
+> 5
+tctaagt
+> 5
+tataagt
+> 5
+aagaagc
+> 5
+gtgacgt
+> 5
+acagagt
+> 5
+aagaata
+> 5
+aaggaga
+> 5
+aaggagg
+> 5
+cctaagt
+> 5
+cagtagt
+> 5
+cggacgt
+> 5
+gaaaagt
+> 5
+tagatgc
+> 5
+cagaagg
+> 5
+cagaatg
+> 5
+atggagt
+> 5
+cagaact
+> 5
+atggagt
+> 5
+cagaact
+> 5
+gaggagt
+> 5
+caggagt
+> 5
+cagagga
+> 5
+caaaaga
+> 5
+aagaagg
+> 5
+gagagga
+> 5
+gagaagc
+> 5
+gaggagc
+> 5
+gagaagg
+> 5
+gaggggt
+> 5
+caggagc
+> 5
+tgtatgt
+> 5
+ttgaagt
+> 5
+tgggagt
+> 5
+aagaagt
+> 5
+aagaaag
+> 5
+caggagt
+> 5
+cagaaga
+> 5
+aagatga
+> 5
+aagaatg
+> 5
+aagaggt
+> 5
+cagaaga
+> 5
+aagatgt
+> 5
+aagattc
+> 5
+cagacag
+> 5
+gaaaagt
+> 5
+gagaaga
+> 5
+aagaact
+> 5
+ggtaagt
+> 5
+gaagagt
+> 5
+cagaaga
+> 5
+tggatga
+> 5
+tagaagt
+> 5
+gagatgt
+> 5
+aggatat
+> 5
+aagaagg
+> 5
+caggaga
+> 5
+aacgagt
+> 5
+aatgaga
+> 5
+tcgaagg
+> 5
+gaggaga
+> 5
+caggcga
+> 5
+acggagg
+> 5
+aaggagg
+> 5
+ctggagg
+> 5
+gaggagc
+> 5
+gaggaga
+> 5
+aggtcgt
+> 5
+caggggg
+> 5
+ccagagt
+> 5
+ccagagt
+> 5
+aagggcc
+> 5
+ctgaagg
+> 5
+cataagt
+> 5
+aagaagc
+> 5
+tgggagt
+> 5
+aagaagt
+> 5
+aagaagt
+> 5
+aaagagg
+> 5
+aagaatt
+> 5
+aagtaga
+> 5
+cagaatg
+> 5
+cagacac
+> 5
+aaaaaga
+> 5
+caggaga
+> 5
+aaggaat
+> 5
+gggatgc
+> 5
+gagacca
+> 5
+cagatgc
+> 5
+aaggagg
+> 5
+aggaaga
+> 5
+aaggagt
+> 5
+caaatgc
+> 5
+gagatgt
+> 5
+gagaacg
+> 5
+tataagt
+> 5
+gagcagt
+> 5
+catgagc
+> 5
+aggaagt
+> 5
+aaagagc
+> 5
+ccagagg
+> 5
+gaggcgc
+> 5
+aaggggt
+> 5
+gtggagt
+> 5
+cagaagt
+> 5
+tcaaaga
+> 5
+tggacgt
+> 5
+cagaggg
+> 5
+atgaagt
+> 5
+ttgaagt
+> 5
+actaagt
+> 5
+gagaggt
+> 5
+aagaaag
+> 5
+attgagt
+> 5
+tgaaagt
+> 5
+gagcagt
+> 5
+tgaatgt
+> 5
+atgaggt
+> 5
+cagactg
+> 5
+gcggagt
+> 5
+aaggcgt
+> 5
+cagagga
+> 5
+caggagg
+> 5
+aaggagc
+> 5
+cagaata
+> 5
+tcgaaga
+> 5
+cagaagt
+> 5
+gggatgt
+> 5
+cagaatt
+> 5
+aagaatt
+> 5
+cagaaaa
+> 5
+cagacac
+> 5
+ttgaggt
+> 5
+aaggagt
+> 5
+cagaatg
+> 5
+atggagc
+> 5
+caggagt
+> 5
+ctggagg
+> 5
+cagaaga
+> 5
+cagatca
+> 5
+aagatgt
+> 5
+tagaaat
+> 5
+cagatca
+> 5
+cctgagt
+> 5
+aaggagt
+> 5
+aagacaa
+> 5
+caggaga
+> 5
+cagatgt
+> 5
+aaagagt
+> 5
+atgaagt
+> 5
+cagggga
+
