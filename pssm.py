@@ -1,6 +1,7 @@
 from Bio import SeqIO
 from Bio import motifs
 from Bio.Seq import Seq
+import matplotlib.pyplot as plt
 
 # http://biopython-cn.readthedocs.org/en/latest/en/chr14.html
 
@@ -99,3 +100,6 @@ if __name__  == "__main__":
     for i in range(0, 10):
         print("neg" + str(pssm.negScores[i]) + "   pos " + str(pssm.posScores[i]))
 
+    plt.hist(pssm.posScores, bins= 100, color="blue")
+    plt.hist(pssm.negScores, bins= 100, color="red")
+    plt.show()
