@@ -14,28 +14,20 @@ m = motifs.create(instance)
 pwm = m.counts.normalize(pseudocounts=0.5)
 
 # You can also directly access columns of the counts matrix
-m.counts[:,3]
+print  m.counts[:,3]
 
 # You can access these counts as a dictionary:
-m.counts['A']
+print  m.counts['A']
 
 # pssm
 pssm =pwm.log_odds()
 
+print pssm
 class Pssm:
     def __init__(self):
-        self.frequencies =[]
-        self.wmm = [{'A': 0.1, 'C': 0.1, 'G': 0.1, 'T': 0.1,},
-                    {'A': 0.1, 'C': 0.1, 'G': 0.1, 'T': 0.1,},
-                    {'A': 0.1, 'C': 0.1, 'G': 0.1, 'T': 0.1,},
-                    {'A': 0.1, 'C': 0.1, 'G': 0.1, 'T': 0.1,}] # ight matrix model (rel freq)
+        self.spliceSite = None
 
-        self.pssm = [{'A': -2.7, 'C': -1.5, 'G':-1.7000 , 'T': 1.7},
-                     {'A': 1.8, 'C': -3.1, 'G': -4.9, 'T': -1.7},
-                     {'A':0.1, 'C': -1.2, 'G': -1.1, 'T': 1.0},
-                     {'A': 1.2, 'C': -1.0, 'G': -0.7, 'T': -1},
-                     {'A': 1.0, 'C': -0.20, 'G': -1.1, 'T': -0.5},
-                     {'A': -2.9, 'C': -2.2, 'G': -3.6, 'T': 1.8}] # position specific scoring matrix
+        self.background = None
 
     def calclateScore(self, motiv):
         score = 0
@@ -49,10 +41,31 @@ class Pssm:
 
         return score
 
+    def setSpliceSite(self, filePath):
+        self.spliceSite = self.calcutaltePssm(filePath)
+
+    def setBackground(self, filePath):
+        self.background = self.calcutaltePssm(filePath)
+
+
+    def calcutaltePssm(self, filePath):
+        instance = []
+        for seq_record in SeqIO.parse(filePath, "fasta"):
+            dna_seq = Seq(str(seq_record.seq).upper())
+            instance.append(dna_seq)
+        # wmm
+        m = motifs.create(instance)
+        pwm = m.counts.normalize(pseudocounts=0.5)
+        return pwm.log_odds()       # pssm
 
 
 
 if __name__  == "__main__":
     pssm = Pssm()
-    print(Pssm().wmm[0]['A'])
-    print pssm.calclateScore("TATAAT")
+    pssm.setSpliceSite("data/train_pos.txt")
+    pssm.setBackground("data/train_neg.txt")
+
+
+    print(pssm.background)
+    print(pssm.spliceSite)
+
