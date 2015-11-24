@@ -11,7 +11,8 @@ for seq_record in SeqIO.parse("data/test_neg.txt", "fasta"):
 
 # wmm
 m = motifs.create(instance)
-pwm = m.counts.normalize(pseudocounts=0.5)
+pwm = m.pwm
+print(pwm)
 
 # You can also directly access columns of the counts matrix
 m.counts[:,3]
@@ -20,7 +21,8 @@ m.counts[:,3]
 m.counts['A']
 
 # pssm
-pssm =pwm.log_odds()
+pssm = pwm.log_odds()
+print pssm['A',3]
 
 class Pssm:
     def __init__(self):
