@@ -75,7 +75,7 @@ if __name__  == "__main__":
     pssm.calculateNegScore()
     pssm.calculatePosScore()
     for i in range(0, 10):
-        print("neg" + str(pssm.negScores[i]) + "   pos " + str(pssm.posScores[i]))
+        print("neg " + str(pssm.negScores[i]) + ",\t pos " + str(pssm.posScores[i]))
 
     plt.hist(pssm.negScores, bins= 100, color="red")
     plt.hist(pssm.posScores, bins= 100, color="blue")
