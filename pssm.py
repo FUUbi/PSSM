@@ -4,29 +4,6 @@ from Bio.Seq import Seq
 import matplotlib.pyplot as plt
 
 # http://biopython-cn.readthedocs.org/en/latest/en/chr14.html
-
-
-instance = []
-for seq_record in SeqIO.parse("data/test_neg.txt", "fasta"):
-    dna_seq = Seq(str(seq_record.seq).upper())
-    instance.append(dna_seq)
-
-# wmm
-m = motifs.create(instance)
-pwm = m.pwm
-print(pwm)
-
-# You can also directly access columns of the counts matrix
-print  m.counts[:,3]
-
-# You can access these counts as a dictionary:
-print  m.counts['A']
-
-# pssm
-pssm = pwm.log_odds()
-print pssm['A',3]
-
-print pssm
 class Pssm:
     def __init__(self):
         self.spliceSite = None
@@ -100,6 +77,6 @@ if __name__  == "__main__":
     for i in range(0, 10):
         print("neg" + str(pssm.negScores[i]) + "   pos " + str(pssm.posScores[i]))
 
-    plt.hist(pssm.posScores, bins= 100, color="blue")
     plt.hist(pssm.negScores, bins= 100, color="red")
+    plt.hist(pssm.posScores, bins= 100, color="blue")
     plt.show()
