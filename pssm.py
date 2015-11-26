@@ -1,5 +1,8 @@
 from Bio import SeqIO
 from Bio import motifs
+import Bio
+from Bio.Alphabet import IUPAC
+from Bio.Alphabet.IUPAC import IUPACUnambiguousDNA
 from Bio.Seq import Seq
 import matplotlib.pyplot as plt
 
@@ -11,10 +14,12 @@ for seq_record in SeqIO.parse("data/test_neg.txt", "fasta"):
     dna_seq = Seq(str(seq_record.seq).upper())
     instance.append(dna_seq)
 
+
 # wmm
 m = motifs.create(instance)
 pwm = m.pwm
 print(pwm)
+print(dir(m))
 
 # You can also directly access columns of the counts matrix
 print  m.counts[:,3]
@@ -40,15 +45,18 @@ class Pssm:
 
     def calculatePosScore(self):
         self.posScores = []
+
         for seq in self.seqPos:
+#          self.posScores.append(self.spliceSite.calculate(seq))
             score = 0
             for i in range(0, len(seq)):
                 score += self.spliceSite[seq[i], i]
-            self.posScores.append(score)
+                self.posScores.append(score)
 
     def calculateNegScore(self):
         self.negScores = []
         for seq in self.seqNeg:
+            #self.negScores.append(self.background.calculate(seq))
             score = 0
             for i in range(0, len(seq)):
                 score += self.spliceSite[seq[i], i]
@@ -68,13 +76,15 @@ class Pssm:
         # wmm
         m = motifs.create(instance)
 
+
+
         pwm = m.counts.normalize(pseudocounts=0.5)
         return pwm.log_odds()       # pssm
 
     def loadSeq(self, filePath):
         instance = []
         for seq_record in SeqIO.parse(filePath, "fasta"):
-            dna_seq = Seq(str(seq_record.seq).upper())
+            dna_seq = Seq(str(seq_record.seq).upper(), IUPACUnambiguousDNA())
             instance.append(dna_seq)
 
         return instance
@@ -99,7 +109,12 @@ if __name__  == "__main__":
     pssm.calculatePosScore()
     for i in range(0, 10):
         print("neg" + str(pssm.negScores[i]) + "   pos " + str(pssm.posScores[i]))
-
-    plt.hist(pssm.posScores, bins= 100, color="blue")
     plt.hist(pssm.negScores, bins= 100, color="red")
-    plt.show()
+    plt.hist(pssm.posScores, bins= 100, color="blue")
+
+    #plt.show()
+
+    alignment = Bio.AlignIO.read("data/test_pos.txt", "fasta")
+    for record in alignment :
+        print record.seq, record.id
+        print dir(record)
