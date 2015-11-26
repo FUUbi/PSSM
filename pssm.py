@@ -15,54 +15,28 @@ class Pssm:
         self.alignmentPos = None
         self.alignmentNeg = None
 
-        self.seqPos = None
-        self.seqNeg = None
-
         self.posScores = None
         self.negScores = None
 
-        self.posScoresBIO = None
-        self.negScoresBIO = None
-
-    def calculatePosScoreBIO(self):
-        self.posScoresBIO = []
-        for record in self.alignmentPos:
-            score = 0
-            for i in range(0, len(record.seq)):
-                score += self.spliceSite[str(record.seq[i]).upper(), i]
-            self.posScoresBIO.append(score)
-
-    def calculateNegScoreBIO(self):
-        self.negScoresBIO = []
-        for record in self.alignmentNeg:
-            #self.negScores.append(self.background.calculate(seq))
-            score = 0
-            for i in range(0, len(record.seq)):
-                score += self.background[str(record.seq[i]).upper(), i]
-            self.negScoresBIO.append(score)
-
     def calculatePosScore(self):
         self.posScores = []
-        for seq in self.seqPos:
-            score = 0
-            for i in range(0, len(seq)):
-                score += self.spliceSite[seq[i], i]
-                self.posScores.append(score)
+        for record in self.alignmentPos:
+            self.posScores.append(self.spliceSite.calculate(record.seq))
+        print "calculated Pos Scores"
 
     def calculateNegScore(self):
         self.negScores = []
-        for seq in self.seqNeg:
-            score = 0
-            for i in range(0, len(seq)):
-                score += self.spliceSite[seq[i], i]
-            self.negScores.append(score)
-
+        for record in self.alignmentNeg:
+            self.negScores.append(self.background.calculate(record.seq))
+        print "calculated Neg Scores"
 
     def setSpliceSite(self, filePath):
         self.spliceSite = self.calcutaltePssm(filePath)
+        print "set Splice PSSM  "
 
     def setBackground(self, filePath):
         self.background = self.calcutaltePssm(filePath)
+        print "set background PSSM"
 
     def calcutaltePssm(self, filePath):
         instance = []
@@ -76,49 +50,33 @@ class Pssm:
         return pwm.log_odds()       # pssm
 
     def loadSeq(self, filePath):
-        instance = []
-        for seq_record in SeqIO.parse(filePath, "fasta"):
-            dna_seq = Seq(str(seq_record.seq).upper(), IUPACUnambiguousDNA())
-            instance.append(dna_seq)
-        return instance
+        return Bio.AlignIO.read(filePath, "fasta", alphabet=IUPACUnambiguousDNA())
 
-    def setSeqPos(self, filePath):
-        self.seqPos = self.loadSeq(filePath)
+    def setAlignmentPos(self, filePath):
+        self.alignmentPos = self.loadSeq(filePath)
 
-    def setSeqNeg(self, filePath):
-        self.seqNeg = self.loadSeq(filePath)
+        print "loaded AlignmentPos"
+
+    def setAlignmentNeg(self, filePath):
+        self.alignmentNeg = self.loadSeq(filePath)
+        print "loaded AlignmentNeg"
 
 if __name__  == "__main__":
     pssm = Pssm()
     pssm.setSpliceSite("data/train_pos.txt")
     pssm.setBackground("data/train_neg.txt")
-    pssm.setSeqPos("data/test_pos.txt")
-    pssm.setSeqNeg("data/test_neg.txt")
-
-    pssm.alignmentPos = Bio.AlignIO.read("data/test_pos.txt", "fasta")
-    pssm.alignmentNeg = Bio.AlignIO.read("data/test_neg.txt", "fasta")
-
-    print(pssm.background)
-    print(pssm.spliceSite)
-
-    pssm.calculateNegScoreBIO()
-    pssm.calculatePosScoreBIO()
+    pssm.setAlignmentPos("data/test_pos.txt")
+    pssm.setAlignmentNeg("data/test_neg.txt")
 
     pssm.calculateNegScore()
     pssm.calculatePosScore()
 
-    for i in range(0, 10):
-        print("neg " + str(pssm.negScores[i]) + ",\t pos " + str(pssm.posScores[i]))
-
-    plt.hist(pssm.negScoresBIO, bins= 100, color="red")
-    plt.hist(pssm.posScoresBIO, bins= 100, color="blue")
-
-    plt.show()
-
     plt.hist(pssm.negScores, bins= 100, color="red")
-    plt.hist(pssm.posScores , bins= 100, color="blue")
+    plt.hist(pssm.posScores, bins=100, color="blue")
 
     plt.show()
+
+
 
     #########################################################################################################
     #########################################################################################################
@@ -213,8 +171,3 @@ if __name__  == "__main__":
     ##                                                                                                      ##
     ##########################################################################################################
     ##########################################################################################################
-
-
-    alignment = Bio.AlignIO.read("data/test_pos.txt", "fasta")
-    for record in alignment :
-        print record.seq, record.id
