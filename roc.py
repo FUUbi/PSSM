@@ -136,6 +136,7 @@ class Roc:
         print("generatin the Data for the ROC Curve")
         print("If this takes more than 15 sec. please go to www.apple.com and by a daaaaaamn fucking MacBook Pro")
         print("or ... a sony vaio duo... daaaaam f**....and better buy it dont by it")
+        print("or just give us a 'naja'... -.-");
         pcoStart = pcoStart
         pcoEnd = pcoEnd
         pcoStep = pcoStep
