@@ -1,4 +1,3 @@
-from IPython.core.display import Math
 import math
 
 
