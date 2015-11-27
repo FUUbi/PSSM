@@ -31,7 +31,7 @@ class Roc:
         return pronCutOffList
 
 
-    ## The TruePossitives "TP" for a Probable Cut Off Value,ScoreList "posScores" must be sorted
+    ## The TruePossitives "TP" for a Probable Cut Off Value,ScoreList "posScores"
     def __truePositives(self, pco, posScores):
         tpList = list()
         pco = pco
@@ -46,7 +46,7 @@ class Roc:
         return tpList
 
 
-    ## The TrueNegatives "TN" for a Probable Cut Off Value, ScoreList "negScores" must be sorted
+    ## The TrueNegatives "TN" for a Probable Cut Off Value, ScoreList "negScores"
     def __trueNegatives(self, pco, negScores):
         tnList = list()
         poc = pco
