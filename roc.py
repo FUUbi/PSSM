@@ -1,3 +1,7 @@
+from IPython.core.display import Math
+import math
+
+
 class Roc:
     def __init__(self, posScores, negScores):
         # Total Scores
@@ -118,16 +122,14 @@ class Roc:
     ##########################################################################################################
 
     def __setCutOff(self, probCutOffList):
-        fp = self.fpRateList[0]
-        tp = self.tpRateList[0]
-        print self.fpRateList[0]
-        print probCutOffList[0]
-        for i in range(0, len(probCutOffList)):
-            if fp < self.fpRateList[i]  and tp > self.tpRateList:
+        tmin = math.sqrt(self.fpRateList[len(self.fpRateList)-1]**2 + (self.tpRateList[len(self.fpRateList)-1] - 1)**2)
+        for i in range(len(probCutOffList)-1, -1, -1):
+            t = math.sqrt(self.fpRateList[i]**2 + (self.tpRateList[i] - 1)**2)
+            if t< tmin:
                 self.cutOffValue = probCutOffList[i]
                 self.sensitivity = self.fpRateList[i]
                 self.specificity = self.tpRateList[i]
-        print(self.cutOffValue)
+
 
 
     def rocCurve(self, pcoStart, pcoEnd, pcoStep):
