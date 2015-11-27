@@ -21,7 +21,7 @@ class Roc:
 
     ## Generate a List of Probable Cut Off Values
     ## start = start Value, stop = stop Value, step = steps between the Values
-    def __probCutOff(self, start, stop, step):
+    def probCutOff(self, start, stop, step):
         pronCutOffList = list()
         i = start
         while i <= stop:
@@ -32,7 +32,7 @@ class Roc:
 
 
     ## The TruePossitives "TP" for a Probable Cut Off Value,ScoreList "posScores"
-    def __truePositives(self, pco, posScores):
+    def truePositives(self, pco, posScores):
         tpList = list()
         pco = pco
         posScores = posScores
@@ -47,7 +47,7 @@ class Roc:
 
 
     ## The TrueNegatives "TN" for a Probable Cut Off Value, ScoreList "negScores"
-    def __trueNegatives(self, pco, negScores):
+    def trueNegatives(self, pco, negScores):
         tnList = list()
         poc = pco
         negScores = negScores
@@ -61,7 +61,7 @@ class Roc:
         return tnList
 
     ## The TN-Rate "Specifity" i = length of the tnList, tnList = list of TN Values, totalNeg = total negative values
-    def __tnRate(self, tnList, totalNeg):
+    def tnRate(self, tnList, totalNeg):
         tnRateList = list()
         tnList = tnList
         totalNeg = totalNeg
@@ -71,7 +71,7 @@ class Roc:
         return tnRateList
 
     ## The FP-Rate "1-TN Rate"
-    def __fpRate(self, tnRateList):
+    def fpRate(self, tnRateList):
         fpRateList = list()
         tnRateList = tnRateList
         for i in range(len(tnRateList)):
@@ -80,7 +80,7 @@ class Roc:
         return fpRateList
 
     ## The TP-Rate "Sensivity" tpList = list of TP Values, totalPos = total positive values
-    def __tpRate(self, tpList, totalPos):
+    def tpRate(self, tpList, totalPos):
         tpRateList = list()
         tpList = tpList
         totalPos = totalPos
@@ -120,7 +120,7 @@ class Roc:
     ##########################################################################################################
     ##########################################################################################################
 
-    def __setCutOff(self, probCutOffList):
+    def setCutOff(self, probCutOffList):
         tmin = math.sqrt(self.fpRateList[len(self.fpRateList)-1]**2 + (self.tpRateList[len(self.fpRateList)-1] - 1)**2)
         for i in range(len(probCutOffList)-1, -1, -1):
             t = math.sqrt(self.fpRateList[i]**2 + (self.tpRateList[i] - 1)**2)
@@ -140,12 +140,12 @@ class Roc:
         pcoEnd = pcoEnd
         pcoStep = pcoStep
 
-        probCutOffList = self.__probCutOff(pcoStart, pcoEnd, pcoStep)
-        tpList = self.__truePositives(probCutOffList, self.posScoresSorted)
-        tnList = self.__trueNegatives(probCutOffList, self.negScoresSorted)
-        tnRateList = self.__tnRate(tnList, self.totalNegScores)
-        self.fpRateList = self.__fpRate(tnRateList)
-        self.tpRateList = self.__tpRate(tpList, self.totalPosScores)
+        probCutOffList = self.probCutOff(pcoStart, pcoEnd, pcoStep)
+        tpList = self.truePositives(probCutOffList, self.posScoresSorted)
+        tnList = self.trueNegatives(probCutOffList, self.negScoresSorted)
+        tnRateList = self.tnRate(tnList, self.totalNegScores)
+        self.fpRateList = self.fpRate(tnRateList)
+        self.tpRateList = self.tpRate(tpList, self.totalPosScores)
 
-        self.__setCutOff(probCutOffList)
+        self.setCutOff(probCutOffList)
 
