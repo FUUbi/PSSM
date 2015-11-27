@@ -124,7 +124,7 @@ class Roc:
         tmin = math.sqrt(self.fpRateList[len(self.fpRateList)-1]**2 + (self.tpRateList[len(self.fpRateList)-1] - 1)**2)
         for i in range(len(probCutOffList)-1, -1, -1):
             t = math.sqrt(self.fpRateList[i]**2 + (self.tpRateList[i] - 1)**2)
-            if t< tmin:
+            if t < tmin:
                 self.cutOffValue = probCutOffList[i]
                 self.sensitivity = self.fpRateList[i]
                 self.specificity = self.tpRateList[i]
@@ -132,7 +132,7 @@ class Roc:
 
 
     def rocCurve(self, pcoStart, pcoEnd, pcoStep):
-        print("generatin the Data for the ROC Curve")
+        print("generating the Data for the ROC Curve")
         print("If this takes more than 15 sec. please go to www.apple.com and by a daaaaaamn fucking MacBook Pro")
         print("or ... a sony vaio duo... daaaaam f**....and better buy it dont by it")
         print("or just give us a 'naja'... -.-");
