@@ -1,6 +1,6 @@
+import Bio
 from Bio import SeqIO
 from Bio import motifs
-import Bio
 from Bio.Alphabet.IUPAC import IUPACUnambiguousDNA
 from Bio.Seq import Seq
 import matplotlib.pyplot as plt
@@ -18,16 +18,24 @@ class Pssm:
         self.negScores = None
 
     def calculatePosScore(self):
+        print "calculating Pos Scores .... "
         self.posScores = []
         for record in self.alignmentPos:
-            self.posScores.append(self.spliceSite.calculate(record.seq))
-        print "calculated Pos Scores"
+            pos = self.spliceSite.calculate(record.seq)
+            neg = self.background.calculate(record.seq)
+            self.posScores.append(pos - neg)
+            #self.posScores.append(self.spliceSite.calculate(record.seq))
+        print "done!"
 
     def calculateNegScore(self):
+        print "calculating Neg Scores .... "
         self.negScores = []
         for record in self.alignmentNeg:
-            self.negScores.append(self.background.calculate(record.seq))
-        print "calculated Neg Scores"
+            pos = self.spliceSite.calculate(record.seq)
+            neg = self.background.calculate(record.seq)
+            self.negScores.append(pos - neg)
+            #self.negScores.append(self.background.calculate(record.seq))
+        print "done!"
 
     def setSpliceSite(self, filePath):
         self.spliceSite = self.calcutaltePssm(filePath)
@@ -45,17 +53,18 @@ class Pssm:
         # wmm
         m = motifs.create(instance)
 
-        pwm = m.counts.normalize(pseudocounts=0.5)
+        pwm = m.counts.normalize(pseudocounts=0)
         return pwm.log_odds()       # pssm
 
     def loadSeq(self, filePath):
         return Bio.AlignIO.read(filePath, "fasta", alphabet=IUPACUnambiguousDNA())
 
     def setAlignmentPos(self, filePath):
+        print "loading AlignmentPos .... "
         self.alignmentPos = self.loadSeq(filePath)
-
-        print "loaded AlignmentPos"
+        print "done!"
 
     def setAlignmentNeg(self, filePath):
+        print "loading AlignmentNeg .... "
         self.alignmentNeg = self.loadSeq(filePath)
-        print "loaded AlignmentNeg"
+        print "done!"
