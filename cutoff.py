@@ -14,8 +14,9 @@ class CutOff:
         self.falsePositiveRateList = None
         self.truePositiveRateList = None
 
-        self.sensitivity = None
-        self.specificity = None
+        self.cutOff = None
+        self.sensitivityPercent = None
+        self.specificityPercent = None
 
     def calculatePositive(self, scoreList, probableCutOff):
         anzahl = 0
@@ -24,9 +25,27 @@ class CutOff:
                 anzahl +=1
         return anzahl
 
+    def calcSensitivity(self):
+        truePositive = self.calculatePositive(self.posScoresList, self.cutOff)
+        self.sensitivityPercent = float(truePositive) / self.totalPosScores * 100
+
+    def calcSpecificity(self):
+        trueNegative=0
+        falsePositive=0
+
+        for i in self.negScoresList:
+            if i <= self.cutOff:
+                trueNegative+=1
+
+        for i in self.posScoresList:
+            if i <= self.cutOff:
+                falsePositive+=1
+
+        self.specificityPercent = float(trueNegative) / falsePositive + trueNegative * 100
+
     def getCutOff(self, probableCutOffStart, probableCutOffEnd):
         print "calculating cut off .... \t\t\t " ,
-        cutOffValue = 0
+        self.cutOff = 0
         currentMcc = 0
 
         for i in np.arange(probableCutOffStart, probableCutOffEnd, 0.1):
@@ -44,7 +63,9 @@ class CutOff:
                       )
 
             if currentMcc < newMcc:
-                cutOffValue = probableCutOff
+                self.cutOff = probableCutOff
                 currentMcc = newMcc
+        self.calcSensitivity()
+        self.calcSpecificity()
         print "done!"
-        return cutOffValue
+        return self.cutOff
