@@ -11,17 +11,17 @@ if __name__  == "__main__":
     pssm.calculateNegScore()
     pssm.calculatePosScore()
 
-    roc = Roc(pssm.posScores, pssm.negScores)
+    roc = Roc(pssm.posScoresList, pssm.negScoresList)
     roc.rocCurve(-1.0, 4.0, 0.1)
 
-    plt.hist(pssm.negScores, bins=100, color="red", alpha=0.5, label="Background")
-    plt.hist(pssm.posScores, bins=100, color="blue", label="SpliceSites")
+    plt.hist(pssm.negScoresList, bins=100, color="red", alpha=0.5, label="Background")
+    plt.hist(pssm.posScoresList, bins=100, color="blue", label="SpliceSites")
     plt.vlines(roc.cutOffValue,0,4500, colors="green")
     plt.title("PSSM")
 
     plt.figure()
-    plt.hist([s for s in pssm.negScores if s > .5], bins= 100, color="red")
-    plt.hist([s for s in pssm.posScores if s > .5], bins=100, color="blue")
+    plt.hist([s for s in pssm.negScoresList if s > .5], bins= 100, color="red")
+    plt.hist([s for s in pssm.posScoresList if s > .5], bins=100, color="blue")
     plt.title("PSSM CUT OFF")
 
     plt.figure()

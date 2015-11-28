@@ -14,26 +14,26 @@ class Pssm:
         self.alignmentPos = None
         self.alignmentNeg = None
 
-        self.posScores = None
-        self.negScores = None
+        self.posScoresList = None
+        self.negScoresList = None
 
     def calculatePosScore(self):
         print "calculating Pos Scores .... \t \t " ,
-        self.posScores = []
+        self.posScoresList = []
         for record in self.alignmentPos:
             pos = self.spliceSite.calculate(record.seq)
             neg = self.background.calculate(record.seq)
-            self.posScores.append(pos - neg)
+            self.posScoresList.append(pos - neg)
             #self.posScores.append(self.spliceSite.calculate(record.seq))
         print "done!"
 
     def calculateNegScore(self):
         print "calculating Neg Scores .... \t \t " ,
-        self.negScores = []
+        self.negScoresList = []
         for record in self.alignmentNeg:
             pos = self.spliceSite.calculate(record.seq)
             neg = self.background.calculate(record.seq)
-            self.negScores.append(pos - neg)
+            self.negScoresList.append(pos - neg)
             #self.negScores.append(self.background.calculate(record.seq))
         print "done!"
 
