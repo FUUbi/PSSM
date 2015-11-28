@@ -18,7 +18,7 @@ class Pssm:
         self.negScores = None
 
     def calculatePosScore(self):
-        print "calculating Pos Scores .... "
+        print "calculating Pos Scores .... \t \t " ,
         self.posScores = []
         for record in self.alignmentPos:
             pos = self.spliceSite.calculate(record.seq)
@@ -28,7 +28,7 @@ class Pssm:
         print "done!"
 
     def calculateNegScore(self):
-        print "calculating Neg Scores .... "
+        print "calculating Neg Scores .... \t \t " ,
         self.negScores = []
         for record in self.alignmentNeg:
             pos = self.spliceSite.calculate(record.seq)
@@ -60,11 +60,11 @@ class Pssm:
         return Bio.AlignIO.read(filePath, "fasta", alphabet=IUPACUnambiguousDNA())
 
     def setAlignmentPos(self, filePath):
-        print "loading AlignmentPos .... "
+        print "loading AlignmentPos .... \t \t \t " ,
         self.alignmentPos = self.loadSeq(filePath)
         print "done!"
 
     def setAlignmentNeg(self, filePath):
-        print "loading AlignmentNeg .... "
+        print "loading AlignmentNeg .... \t \t \t " ,
         self.alignmentNeg = self.loadSeq(filePath)
         print "done!"

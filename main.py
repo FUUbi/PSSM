@@ -28,9 +28,9 @@ if __name__  == "__main__":
     plt.plot(roc.falsePositivRateList, roc.truePositivRateList, color="purple")
     plt.title("ROC")
 
-    print(roc.cutOffValue)
-    print(roc.sensitivity)
-    print(roc.specificity)
+    print "Cut Off Value:" , roc.cutOffValue
+    print "Sensitivity:" , roc.sensitivity
+    print "Specificity:" , roc.specificity
 
     plt.show()
 
