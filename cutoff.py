@@ -17,12 +17,19 @@ class CutOff:
         self.sensitivity = None
         self.specificity = None
 
-    def calculateCutOff(self, start, stop):
+    def calculatePositive(self, scoreList, probableCutOff):
+        anzahl = 0
+        for i in scoreList:
+            if i > probableCutOff:
+                anzahl +=1
+        return anzahl
+
+    def getCutOff(self, probableCutOffStart, probableCutOffEnd):
         print "calculating cut off .... \t\t\t " ,
         cutOffValue = 0
         currentMcc = 0
 
-        for i in np.arange(start, stop, 0.1):
+        for i in np.arange(probableCutOffStart, probableCutOffEnd, 0.1):
             probableCutOff = i
 
             truePositive = self.calculatePositive(self.posScoresList, probableCutOff)
@@ -41,14 +48,3 @@ class CutOff:
                 currentMcc = newMcc
         print "done!"
         return cutOffValue
-
-    def calculatePositive(self, scoreList, probableCutOff):
-        anzahl = 0
-        for i in scoreList:
-            if i > probableCutOff:
-                anzahl +=1
-        return anzahl
-
-    def getCutOff(self, probableCutOffStart, probableCutOffEnd):
-        cutOff = self.calculateCutOff(probableCutOffStart, probableCutOffEnd)
-        return cutOff
