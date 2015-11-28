@@ -13,6 +13,7 @@ class Roc:
 
         self.falsePositiveRateList = None
         self.truePositiveRateList = None
+        self.trueNegativRateList = None
 
         self.cutOffValue = None
         self.sensitivity = None
@@ -32,30 +33,30 @@ class Roc:
 
 
     ## The TruePossitives "TP" for a Probable Cut Off Value,ScoreList "posScores"
-    def calculateTruePositive(self, pco, posScores):
+    def calculatePositive(self, probCutOffs, scores):
         truePositiveList = list()
-        pco = pco
-        posScores = posScores
+        posScores = scores
         value = 0
-        for i in range(len(pco)):
-            for x in range(len(posScores)):
-                if posScores[x] > pco[i]:
-                    value +=1
+        for pco in probCutOffs:
+            for posScore in posScores:
+                if posScore > pco:
+                    value += 1
             truePositiveList.append(value)
             value = 0
         return truePositiveList
 
 
+
+
+
     ## The TrueNegatives "TN" for a Probable Cut Off Value, ScoreList "negScores"
-    def calculateTrueNegative(self, probCutOff, negScores):
+    def calculateNegative(self, probCutOffs, negScores):
         trueNegativeList = list()
-        probCutOff = probCutOff
-        negScores = negScores
         value = 0
-        for i in range(len(probCutOff)):
-            for x in range(len(negScores)):
-                if negScores[x] < probCutOff[i]:
-                    value +=1
+        for poc in probCutOffs:
+            for posScore in negScores:
+                if posScore < poc:
+                    value += 1
             trueNegativeList.append(value)
             value = 0
         return trueNegativeList
@@ -89,7 +90,6 @@ class Roc:
             truePositiveRateList.append(value)
         return truePositiveRateList
 
-
     def setCutOff(self, probCutOffList):
         tmin = math.sqrt(self.falsePositiveRateList[len(self.falsePositiveRateList) - 1] ** 2 + (self.truePositiveRateList[len(self.falsePositiveRateList) - 1] - 1) ** 2)
         for i in range(len(probCutOffList)-1, -1, -1):
@@ -99,7 +99,6 @@ class Roc:
                 self.sensitivity = self.falsePositiveRateList[i]
                 self.specificity = self.truePositiveRateList[i]
 
-
     def rocCurve(self, probCutOffStart, probCutOffEnd, probCutOffStep):
         print("generating the Data for the ROC Curve")
         probCutOffStart = probCutOffStart
@@ -107,11 +106,15 @@ class Roc:
         probCutOffStep = probCutOffStep
 
         probCutOffList = self.probCutOff(probCutOffStart, probCutOffEnd, probCutOffStep)
-        tpList = self.calculateTruePositive(probCutOffList, self.posScoresSorted)
-        tnList = self.calculateTrueNegative(probCutOffList, self.negScoresSorted)
-        tnRateList = self.calculateTrueNegativeRate(tnList, self.totalNegScores)
+        truePosList = self.calculatePositive(probCutOffList, self.posScoresSorted)
+        trueNegList = self.calculateNegative(probCutOffList, self.negScoresSorted)
+
+        falsePosList = self.calculateNegative(probCutOffList, self.posScoresSorted)
+        falseNegList = self.calculatePositive(probCutOffList, self.negScoresSorted)
+
+        tnRateList = self.calculateTrueNegativeRate(trueNegList, self.totalNegScores)
         self.falsePositiveRateList = self.calculateFalsePositiveRate(tnRateList)
-        self.truePositiveRateList = self.truePositiveRate(tpList, self.totalPosScores)
+        self.truePositiveRateList = self.truePositiveRate(truePosList, self.totalPosScores)
 
         self.setCutOff(probCutOffList)
 
