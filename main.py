@@ -14,8 +14,8 @@ if __name__  == "__main__":
 #    roc = Roc(pssm.posScoresList, pssm.negScoresList)
 #    roc.rocCurve(-1.0, 4.0, 0.1)
 
-    cutoff = CutOff(pssm.posScoresList, pssm.negScoresList)
-    cutoffValue = cutoff.getCutOff(-1, 4)
+    Cutoff = CutOff(pssm.posScoresList, pssm.negScoresList)
+    cutoffValue = Cutoff.getCutOff(-1, 4)
 
     plt.hist(pssm.posScoresList, bins=100, color="blue", label="SpliceSites")
     plt.hist(pssm.negScoresList, bins=100, color="red", alpha=0.5, label="Background")
@@ -24,8 +24,8 @@ if __name__  == "__main__":
     plt.title("PSSM")
 
     plt.figure()
-    plt.hist([s for s in pssm.negScoresList if s > .5], bins= 100, color="red")
-    plt.hist([s for s in pssm.posScoresList if s > .5], bins=100, color="blue")
+    plt.hist([s for s in pssm.negScoresList if s > cutoffValue], bins= 100, color="red")
+    plt.hist([s for s in pssm.posScoresList if s > cutoffValue], bins=100, color="blue")
     plt.title("PSSM CUT OFF")
 
     # plt.figure()
