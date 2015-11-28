@@ -3,7 +3,7 @@ import numpy as np
 
 
 class CutOff:
-    def __init__(self,cutOffValue, truePositive, falsePositive,trueNegative, falseNegative ):
+    def __init__(self, cutOffValue, truePositive, falsePositive,trueNegative, falseNegative ):
         self.value = cutOffValue
         self.sensitivity = float(truePositive / (truePositive + falseNegative))
         self.specificity = float(trueNegative / (trueNegative + falsePositive))
@@ -24,9 +24,9 @@ class Roc2:
         self.posScoresList = posScores
         self.negScoresList = negScores
 
-        self.cutOffs = list()
+        self.cutOffList = list()
 
-        self.cuOff = None
+        self.cutOff = None
 
 
 
@@ -39,8 +39,6 @@ class Roc2:
 
     def setCutOff(self, probableCutOffStart, probableCutOffEnd):
         print "calculating cut off .... \t\t\t " ,
-
-
         for probableCutOff in np.arange(probableCutOffStart, probableCutOffEnd, 0.1):
 
             truePositive = self.calculatePositive(self.posScoresList, probableCutOff)
@@ -50,28 +48,26 @@ class Roc2:
             falseNegative = self.totalPosScores - truePositive
             newCutOff = CutOff(probableCutOff, truePositive, falsePositive, trueNegative, falseNegative)
 
-            if(self.cuOff == None):
-                self.cuOff = newCutOff
+            if(self.cutOff == None):
+                self.cutOff = newCutOff
 
-            if newCutOff.matthewscc > self.cuOff.matthewscc:
-                self.cuOff = newCutOff
+            if newCutOff.matthewscc > self.cutOff.matthewscc:
+                self.cutOff = newCutOff
 
-            self.cutOffs.append(newCutOff)
+            self.cutOffList.append(newCutOff)
 
         print "done!"
 
-    def getSensitivity(self):
-        sensitivities = []
-        for cutOff in self.cutOffs:
-            sensitivities.append(cutOff.sensitivity)
-            print cutOff.matthewscc
-        return sensitivities
-
-    def getSpecificity(self):
-        specificities = []
-        for cutOff in self.cutOffs:
-            print cutOff.sensitivity
-            specificities.append(cutOff.sensitivity)
-
-
-        return specificities
+    # def getSensitivity(self):
+    #     sensitivities = []
+    #     for cutOff in self.cutOffList:
+    #         sensitivities.append(cutOff.sensitivity)
+    #         print cutOff.matthewscc
+    #     return sensitivities
+    #
+    # def getSpecificity(self):
+    #     specificities = []
+    #     for cutOff in self.cutOffList:
+    #         print cutOff.sensitivity
+    #         specificities.append(cutOff.sensitivity)
+    #     return specificities

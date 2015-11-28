@@ -19,11 +19,11 @@ class CutOff:
         self.specificityPercent = None
 
     def calculatePositive(self, scoreList, probableCutOff):
-        anzahl = 0
+        count = 0
         for i in scoreList:
             if i > probableCutOff:
-                anzahl +=1
-        return anzahl
+                count +=1
+        return count
 
     def calcSensitivity(self):
         truePositive = self.calculatePositive(self.posScoresList, self.cutOff)
@@ -47,8 +47,18 @@ class CutOff:
         print "calculating cut off .... \t\t\t " ,
         self.cutOff = 0
         currentMcc = 0
-
-        for i in np.arange(probableCutOffStart, probableCutOffEnd, 0.1):
+        
+        if min(self.posScoresList) >= max(self.negScoresList):
+            return min(self.posScoresList)
+        
+        # 3.33206531525  200
+        # 3.32664518356  500
+        # 3.32664518356  700
+        # 3.32664518356  900
+        # 3.329         1000
+        
+        for i in np.linspace(3, 4, 1000, endpoint=False):
+        #for i in np.arange(probableCutOffStart, probableCutOffEnd, 0.001):
             probableCutOff = i
 
             truePositive = self.calculatePositive(self.posScoresList, probableCutOff)
