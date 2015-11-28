@@ -89,36 +89,6 @@ class Roc:
             truePositiveRateList.append(value)
         return truePositiveRateList
 
-    ##########################################################################################################
-    ##########################################################################################################
-    ##                                                                                                      ##
-    ##  To Calculate the FP-Rate List and the TP-Rate List:                                                 ##
-    ##                                                                                                      ##
-    ##  Use the probCutOff() to generate a List of Probable Cut Off Values                                  ##
-    ##                                                                                                      ##
-    ##  Iterate through the sorted Pos Scores using the truePositives() function and generate a List        ##
-    ##  containing the values for each Probable Cut Off Value                                               ##
-    ##                                                                                                      ##
-    ##  Iterate through the sorted Neg Scores using the trueNegatives() function and generate a List        ##
-    ##  containing the values for each Probable Cut Off Value                                               ##
-    ##                                                                                                      ##
-    ##  Iterate through the tnList using the tnRate() function and generate a List containing the values    ##
-    ##  for each value                                                                                      ##
-    ##                                                                                                      ##
-    ##  Iterate through the tnRateList using the fpRate() function and generate a List containing           ##
-    ##  the value for each value                                                                            ##
-    ##                                                                                                      ##
-    ##  Iterate through the tpList using the tpRate() function and generate a List containing the values    ##
-    ##  for each value                                                                                      ##
-    ##                                                                                                      ##
-    ##########################################################################################################
-    ##                                                                                                      ##
-    ##                                                                                                      ##
-    ##  Print the ROC Curve using the FP-Rate List on the X - Axis and the TP-Rate List on the Y - Axis     ##
-    ##                                                                                                      ##
-    ##                                                                                                      ##
-    ##########################################################################################################
-    ##########################################################################################################
 
     def setCutOff(self, probCutOffList):
         tmin = math.sqrt(self.falsePositiveRateList[len(self.falsePositiveRateList) - 1] ** 2 + (self.truePositiveRateList[len(self.falsePositiveRateList) - 1] - 1) ** 2)
@@ -130,14 +100,13 @@ class Roc:
                 self.specificity = self.truePositiveRateList[i]
 
 
-
-    def rocCurve(self, pcoStart, pcoEnd, pcoStep):
+    def rocCurve(self, probCutOffStart, probCutOffEnd, probCutOffStep):
         print("generating the Data for the ROC Curve")
-        pcoStart = pcoStart
-        pcoEnd = pcoEnd
-        pcoStep = pcoStep
+        probCutOffStart = probCutOffStart
+        probCutOffEnd = probCutOffEnd
+        probCutOffStep = probCutOffStep
 
-        probCutOffList = self.probCutOff(pcoStart, pcoEnd, pcoStep)
+        probCutOffList = self.probCutOff(probCutOffStart, probCutOffEnd, probCutOffStep)
         tpList = self.calculateTruePositive(probCutOffList, self.posScoresSorted)
         tnList = self.calculateTrueNegative(probCutOffList, self.negScoresSorted)
         tnRateList = self.calculateTrueNegativeRate(tnList, self.totalNegScores)
