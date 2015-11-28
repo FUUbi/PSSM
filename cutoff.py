@@ -41,7 +41,7 @@ class CutOff:
             if i <= self.cutOff:
                 falsePositive+=1
 
-        self.specificityPercent = float(trueNegative) / falsePositive + trueNegative * 100
+        self.specificityPercent = float(trueNegative) / (falsePositive + trueNegative) * 100
 
     def getCutOff(self, probableCutOffStart, probableCutOffEnd):
         print "calculating cut off .... \t\t\t " ,
