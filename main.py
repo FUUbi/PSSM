@@ -14,8 +14,8 @@ if __name__  == "__main__":
     roc = Roc(pssm.posScores, pssm.negScores)
     roc.rocCurve(-1.0, 4.0, 0.1)
 
-    plt.hist(pssm.negScores, bins= 100, color="red")
-    plt.hist(pssm.posScores, bins=100, color="blue")
+    plt.hist(pssm.negScores, bins=100, color="red", alpha=0.5, label="Background")
+    plt.hist(pssm.posScores, bins=100, color="blue", label="SpliceSites")
     plt.vlines(roc.cutOffValue,0,4500, colors="green")
     plt.title("PSSM")
 
