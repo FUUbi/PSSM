@@ -39,7 +39,7 @@ class Roc:
         value = 0
         for i in range(len(probableCutOff)):
             for x in range(len(posScores)):
-                if posScores[x] > probableCutOff[i]:
+                if posScores[x] >= probableCutOff[i]:
                     value +=1
             truePositiveList.append(value)
             value = 0
@@ -79,7 +79,7 @@ class Roc:
             falsePositiveRateList.append(value)
         return falsePositiveRateList
 
-    ## The TP-Rate "Sensivity" tpList = list of TP Values, totalPos = total positive values
+    ## The TP-Rate "Sensitivity" tpList = list of TP Values, totalPos = total positive values
     def truePositiveRate(self, truePositiveList, totalPos):
         truePositiveRateList = list()
         truePositiveList = truePositiveList
