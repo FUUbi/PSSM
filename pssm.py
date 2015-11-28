@@ -19,7 +19,7 @@ class Pssm:
 
     def calculatePosScore(self):
         print "calculating Pos Scores .... \t \t " ,
-        self.posScoresList = []
+        self.posScoresList = list()
         for record in self.alignmentPos:
             pos = self.spliceSite.calculate(record.seq)
             neg = self.background.calculate(record.seq)
@@ -29,7 +29,7 @@ class Pssm:
 
     def calculateNegScore(self):
         print "calculating Neg Scores .... \t \t " ,
-        self.negScoresList = []
+        self.negScoresList = list()
         for record in self.alignmentNeg:
             pos = self.spliceSite.calculate(record.seq)
             neg = self.background.calculate(record.seq)
@@ -46,7 +46,7 @@ class Pssm:
         print "set background PSSM"
 
     def calcutaltePssm(self, filePath):
-        instance = []
+        instance = list()
         for seq_record in SeqIO.parse(filePath, "fasta"):
             dna_seq = Seq(str(seq_record.seq).upper())
             instance.append(dna_seq)

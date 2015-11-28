@@ -11,8 +11,8 @@ class Roc:
         self.posScoresSorted = sorted(posScores, reverse=True)
         self.negScoresSorted = sorted(negScores, reverse=True)
 
-        self.falsePositivRateList = None
-        self.truePositivRateList = None
+        self.falsePositiveRateList = None
+        self.truePositiveRateList = None
 
         self.cutOffValue = None
         self.sensitivity = None
@@ -32,8 +32,8 @@ class Roc:
 
 
     ## The TruePossitives "TP" for a Probable Cut Off Value,ScoreList "posScores"
-    def calculateTruePositives(self, pco, posScores):
-        truePositivList = list()
+    def calculateTruePositive(self, pco, posScores):
+        truePositiveList = list()
         pco = pco
         posScores = posScores
         value = 0
@@ -41,14 +41,14 @@ class Roc:
             for x in range(len(posScores)):
                 if posScores[x] > pco[i]:
                     value +=1
-            truePositivList.append(value)
+            truePositiveList.append(value)
             value = 0
-        return truePositivList
+        return truePositiveList
 
 
     ## The TrueNegatives "TN" for a Probable Cut Off Value, ScoreList "negScores"
-    def calculateTrueNegatives(self, pco, negScores):
-        trueNegativesList = list()
+    def calculateTrueNegative(self, pco, negScores):
+        trueNegativeList = list()
         poc = pco
         negScores = negScores
         value = 0
@@ -56,38 +56,38 @@ class Roc:
             for x in range(len(negScores)):
                 if negScores[x] < poc[i]:
                     value +=1
-            trueNegativesList.append(value)
+            trueNegativeList.append(value)
             value = 0
-        return trueNegativesList
+        return trueNegativeList
 
     ## The TN-Rate "Specifity" i = length of the tnList, tnList = list of TN Values, totalNeg = total negative values
-    def calculateTrueNegativRate(self, trueNegativList, totalNeg):
+    def calculateTrueNegativeRate(self, trueNegativeList, totalNeg):
         trueNegativRateList = list()
-        trueNegativList = trueNegativList
+        trueNegativeList = trueNegativeList
         totalNeg = totalNeg
-        for i in range(len(trueNegativList)):
-            value = float(trueNegativList[i]) / totalNeg
+        for i in range(len(trueNegativeList)):
+            value = float(trueNegativeList[i]) / totalNeg
             trueNegativRateList.append(value)
         return trueNegativRateList
 
     ## The FP-Rate "1-TN Rate"
-    def calculateFalsePositivRate(self, trueNegativRateList):
-        falsePositivRateList = list()
-        trueNegativRateList = trueNegativRateList
-        for i in range(len(trueNegativRateList)):
-            value = float(1 - trueNegativRateList[i])
-            falsePositivRateList.append(value)
-        return falsePositivRateList
+    def calculateFalsePositiveRate(self, trueNegativeRateList):
+        falsePositiveRateList = list()
+        trueNegativeRateList = trueNegativeRateList
+        for i in range(len(trueNegativeRateList)):
+            value = float(1 - trueNegativeRateList[i])
+            falsePositiveRateList.append(value)
+        return falsePositiveRateList
 
     ## The TP-Rate "Sensivity" tpList = list of TP Values, totalPos = total positive values
-    def truePositivRate(self, truePositivList, totalPos):
-        truePositivRateList = list()
-        truePositivList = truePositivList
+    def truePositiveRate(self, truePositiveList, totalPos):
+        truePositiveRateList = list()
+        truePositiveList = truePositiveList
         totalPos = totalPos
-        for i in range(len(truePositivList)):
-            value = float(truePositivList[i]) / totalPos
-            truePositivRateList.append(value)
-        return truePositivRateList
+        for i in range(len(truePositiveList)):
+            value = float(truePositiveList[i]) / totalPos
+            truePositiveRateList.append(value)
+        return truePositiveRateList
 
     ##########################################################################################################
     ##########################################################################################################
@@ -121,13 +121,13 @@ class Roc:
     ##########################################################################################################
 
     def setCutOff(self, probCutOffList):
-        tmin = math.sqrt(self.falsePositivRateList[len(self.falsePositivRateList) - 1] ** 2 + (self.truePositivRateList[len(self.falsePositivRateList) - 1] - 1) ** 2)
+        tmin = math.sqrt(self.falsePositiveRateList[len(self.falsePositiveRateList) - 1] ** 2 + (self.truePositiveRateList[len(self.falsePositiveRateList) - 1] - 1) ** 2)
         for i in range(len(probCutOffList)-1, -1, -1):
-            t = math.sqrt(self.falsePositivRateList[i] ** 2 + (self.truePositivRateList[i] - 1) ** 2)
+            t = math.sqrt(self.falsePositiveRateList[i] ** 2 + (self.truePositiveRateList[i] - 1) ** 2)
             if t < tmin:
                 self.cutOffValue = probCutOffList[i]
-                self.sensitivity = self.falsePositivRateList[i]
-                self.specificity = self.truePositivRateList[i]
+                self.sensitivity = self.falsePositiveRateList[i]
+                self.specificity = self.truePositiveRateList[i]
 
 
 
@@ -138,11 +138,11 @@ class Roc:
         pcoStep = pcoStep
 
         probCutOffList = self.probCutOff(pcoStart, pcoEnd, pcoStep)
-        tpList = self.calculateTruePositives(probCutOffList, self.posScoresSorted)
-        tnList = self.calculateTrueNegatives(probCutOffList, self.negScoresSorted)
-        tnRateList = self.calculateTrueNegativRate(tnList, self.totalNegScores)
-        self.falsePositivRateList = self.calculateFalsePositivRate(tnRateList)
-        self.truePositivRateList = self.truePositivRate(tpList, self.totalPosScores)
+        tpList = self.calculateTruePositive(probCutOffList, self.posScoresSorted)
+        tnList = self.calculateTrueNegative(probCutOffList, self.negScoresSorted)
+        tnRateList = self.calculateTrueNegativeRate(tnList, self.totalNegScores)
+        self.falsePositiveRateList = self.calculateFalsePositiveRate(tnRateList)
+        self.truePositiveRateList = self.truePositiveRate(tpList, self.totalPosScores)
 
         self.setCutOff(probCutOffList)
 

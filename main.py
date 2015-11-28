@@ -25,7 +25,7 @@ if __name__  == "__main__":
     plt.title("PSSM CUT OFF")
 
     plt.figure()
-    plt.plot(roc.falsePositivRateList, roc.truePositivRateList, color="purple")
+    plt.plot(roc.falsePositiveRateList, roc.truePositiveRateList, color="purple")
     plt.title("ROC")
 
     print "Cut Off Value:" , roc.cutOffValue
