@@ -47,14 +47,14 @@ class Roc:
 
 
     ## The TrueNegatives "TN" for a Probable Cut Off Value, ScoreList "negScores"
-    def calculateTrueNegative(self, pco, negScores):
+    def calculateTrueNegative(self, probCutOff, negScores):
         trueNegativeList = list()
-        poc = pco
+        probCutOff = probCutOff
         negScores = negScores
         value = 0
-        for i in range(len(pco)):
+        for i in range(len(probCutOff)):
             for x in range(len(negScores)):
-                if negScores[x] < poc[i]:
+                if negScores[x] < probCutOff[i]:
                     value +=1
             trueNegativeList.append(value)
             value = 0
