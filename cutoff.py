@@ -56,8 +56,11 @@ class CutOff:
         # 3.32664518356  700
         # 3.32664518356  900
         # 3.329         1000
+        # 3.329         2000
         
-        for i in np.linspace(3, 4, 1000, endpoint=False):
+        
+        
+        for i in np.linspace(3, 4, 2000, endpoint=False):
         #for i in np.arange(probableCutOffStart, probableCutOffEnd, 0.001):
             probableCutOff = i
 
