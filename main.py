@@ -12,19 +12,19 @@ if __name__  == "__main__":
     pssm.calculatePosScore()
 
     cutOff = CutOff(pssm.posScoresList, pssm.negScoresList)
-    cutOffValue = cutOff.getCutOff(min(pssm.posScoresList), max(pssm.negScoresList))
+    cutOff.getCutOff(min(pssm.posScoresList), max(pssm.negScoresList))
 
     plt.hist(pssm.posScoresList, bins=100, color="blue", label="SpliceSites")
     plt.hist(pssm.negScoresList, bins=100, color="red", alpha=0.5, label="Background")
-    plt.vlines(cutOffValue, 0, 4500, colors="green")
+    plt.vlines(cutOff.value, 0, 4500, colors="green")
     plt.title("PSSM")
 
     plt.figure()
-    plt.hist([s for s in pssm.posScoresList if s > cutOffValue], bins=100, color="blue", label="SpliceSites")
-    plt.hist([s for s in pssm.negScoresList if s > cutOffValue], bins= 100, color="red", alpha=0.5, label="Background")
+    plt.hist([s for s in pssm.posScoresList if s > cutOff.value], bins=100, color="blue", label="SpliceSites")
+    plt.hist([s for s in pssm.negScoresList if s > cutOff.value], bins= 100, color="red", alpha=0.5, label="Background")
     plt.title("PSSM CUT OFF")
 
-    print "Cut Off Value:" , cutOffValue
+    print "Cut Off Value:" , cutOff.value
     print "Sensitivity: " + str(round(cutOff.sensitivityPercent, 2)) + "%"
     print "Specificity: " + str(round(cutOff.specificityPercent, 2)) + "%"
 

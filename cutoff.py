@@ -14,7 +14,7 @@ class CutOff:
         self.falsePositiveRateList = None
         self.truePositiveRateList = None
 
-        self.cutOff = None
+        self.value = None
         self.sensitivityPercent = None
         self.specificityPercent = None
 
@@ -26,7 +26,7 @@ class CutOff:
         return count
 
     def calcSensitivity(self):
-        truePositive = self.calculatePositive(self.posScoresList, self.cutOff)
+        truePositive = self.calculatePositive(self.posScoresList, self.value)
         self.sensitivityPercent = float(truePositive) / self.totalPosScores * 100
 
     def calcSpecificity(self):
@@ -34,34 +34,25 @@ class CutOff:
         falsePositive=0
 
         for i in self.negScoresList:
-            if i <= self.cutOff:
+            if i <= self.value:
                 trueNegative+=1
 
         for i in self.posScoresList:
-            if i <= self.cutOff:
+            if i <= self.value:
                 falsePositive+=1
 
         self.specificityPercent = float(trueNegative) / (falsePositive + trueNegative) * 100
 
     def getCutOff(self, probableCutOffStart, probableCutOffEnd):
         print "calculating cut off .... \t\t\t " ,
-        self.cutOff = 0
+        self.value = 0
         currentMcc = 0
         
         if min(self.posScoresList) >= max(self.negScoresList):
             return min(self.posScoresList)
-        
-        # 3.33206531525  200
-        # 3.32664518356  500
-        # 3.32664518356  700
-        # 3.32664518356  900
-        # 3.329         1000
-        # 3.329         2000
-        
-        
-        
-        for i in np.linspace(3, 4, 2000, endpoint=False):
-        #for i in np.arange(probableCutOffStart, probableCutOffEnd, 0.001):
+
+        # for i in np.arange(probableCutOffStart, probableCutOffEnd, 0.01):
+        for i in np.arange(3, 4, 0.01):
             probableCutOff = i
 
             truePositive = self.calculatePositive(self.posScoresList, probableCutOff)
@@ -76,9 +67,9 @@ class CutOff:
                       )
 
             if currentMcc < newMcc:
-                self.cutOff = probableCutOff
+                self.value = probableCutOff
                 currentMcc = newMcc
+
         self.calcSensitivity()
         self.calcSpecificity()
         print "done!"
-        return self.cutOff
