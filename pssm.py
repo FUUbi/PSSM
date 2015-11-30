@@ -24,7 +24,6 @@ class Pssm:
             pos = self.spliceSite.calculate(record.seq)
             neg = self.background.calculate(record.seq)
             self.posScoresList.append(pos - neg)
-            #self.posScores.append(self.spliceSite.calculate(record.seq))
         print "done!"
 
     def calculateNegScore(self):
@@ -34,16 +33,15 @@ class Pssm:
             pos = self.spliceSite.calculate(record.seq)
             neg = self.background.calculate(record.seq)
             self.negScoresList.append(pos - neg)
-            #self.negScores.append(self.background.calculate(record.seq))
         print "done!"
 
     def setSpliceSite(self, filePath):
-        self.spliceSite = self.calcutaltePssm(filePath)
         print "set Splice PSSM  "
+        self.spliceSite = self.calcutaltePssm(filePath)
 
     def setBackground(self, filePath):
-        self.background = self.calcutaltePssm(filePath)
         print "set background PSSM"
+        self.background = self.calcutaltePssm(filePath)
 
     def calcutaltePssm(self, filePath):
         instance = list()
@@ -52,9 +50,10 @@ class Pssm:
             instance.append(dna_seq)
         # wmm
         m = motifs.create(instance)
-
         pwm = m.counts.normalize(pseudocounts=0)
-        return pwm.log_odds()       # pssm
+        pssm = pwm.log_odds()       # pssm
+        print pssm
+        return pssm
 
     def loadSeq(self, filePath):
         return Bio.AlignIO.read(filePath, "fasta", alphabet=IUPACUnambiguousDNA())
