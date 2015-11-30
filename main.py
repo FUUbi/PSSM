@@ -28,6 +28,8 @@ if __name__  == "__main__":
     print "Sensitivity: " + str(round(cutOff.sensitivityPercent, 2)) + "%"
     print "Specificity: " + str(round(cutOff.specificityPercent, 2)) + "%"
 
+    print "Mcc: " + cutOff.mcc
+
     plt.show()
 
 

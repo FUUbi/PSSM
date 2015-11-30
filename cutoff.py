@@ -17,6 +17,7 @@ class CutOff:
         self.value = None
         self.sensitivityPercent = None
         self.specificityPercent = None
+        self.mcc = None
 
     def calculatePositive(self, scoreList, probableCutOff):
         count = 0
@@ -69,6 +70,7 @@ class CutOff:
             if currentMcc < newMcc:
                 self.value = probableCutOff
                 currentMcc = newMcc
+                self.mcc = currentMcc
 
         self.calcSensitivity()
         self.calcSpecificity()
