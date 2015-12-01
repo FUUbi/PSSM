@@ -1,5 +1,6 @@
 import math
-import numpy as np
+
+import scipy.optimize as so
 
 class CutOff:
     def __init__(self, posScores, negScores):
@@ -30,6 +31,7 @@ class CutOff:
         truePositive = self.calculatePositive(self.posScoresList, self.value)
         self.sensitivityPercent = float(truePositive) / self.totalPosScores * 100
 
+
     def calcSpecificity(self):
         trueNegative=0
         falsePositive=0
@@ -47,31 +49,32 @@ class CutOff:
     def getCutOff(self, probableCutOffStart, probableCutOffEnd):
         print "calculating cut off .... \t\t\t " ,
         self.value = 0
-        currentMcc = 0
-        
-        if min(self.posScoresList) >= max(self.negScoresList):
-            return min(self.posScoresList)
 
-        # for i in np.arange(probableCutOffStart, probableCutOffEnd, 0.01):
-        for i in np.arange(3, 4, 0.01):
-            probableCutOff = i
+        #http://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.differential_evolution.html#scipy.optimize.differential_evolution
+        self.mcc = so.differential_evolution(self.calcMcc,  [(probableCutOffStart, probableCutOffEnd)]).x[0]
 
-            truePositive = self.calculatePositive(self.posScoresList, probableCutOff)
-            falsePositive = self.calculatePositive(self.negScoresList, probableCutOff)
+        #### more random optimation, also works.....
+        # func = lambda x: self.calcMcc(x)
+        # x0 =[1.] #Initial guess.
+        # minimizer_kwargs = {"method": "BFGS"}
+        # ret = basinhopping(func, x0, minimizer_kwargs=minimizer_kwargs, niter=100)
+        # self.mcc = ret.x
 
-            trueNegative = self.totalNegScores - falsePositive
-            falseNegative = self.totalPosScores - truePositive
 
-            newMcc = float(truePositive * trueNegative - falsePositive * falseNegative) / \
-                     (math.sqrt((truePositive + falsePositive) * (trueNegative + falsePositive) *
-                                (truePositive + falseNegative) * (trueNegative + falseNegative))
-                      )
-
-            if currentMcc < newMcc:
-                self.value = probableCutOff
-                currentMcc = newMcc
-                self.mcc = currentMcc
 
         self.calcSensitivity()
         self.calcSpecificity()
         print "done!"
+
+
+    def calcMcc(self, x):
+        truePositive = self.calculatePositive(self.posScoresList, x)
+        falsePositive = self.calculatePositive(self.negScoresList, x)
+
+        trueNegative = self.totalNegScores - falsePositive
+        falseNegative = self.totalPosScores - truePositive
+
+        return -float(truePositive * trueNegative - falsePositive * falseNegative) / \
+                 (math.sqrt((truePositive + falsePositive) * (trueNegative + falsePositive) *
+                            (truePositive + falseNegative) * (trueNegative + falseNegative))
+                  )
