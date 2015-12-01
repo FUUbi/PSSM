@@ -18,11 +18,17 @@ if __name__  == "__main__":
     plt.hist(pssm.negScoresList, bins=100, color="red", alpha=0.5, label="Background")
     plt.vlines(cutOff.value, 0, 4500, colors="green")
     plt.title("PSSM")
+    plt.legend(loc='upper left')
+    plt.xlabel("score")
+    plt.grid(True)
 
     plt.figure()
     plt.hist([s for s in pssm.posScoresList if s > cutOff.value], bins=100, color="blue", label="SpliceSites")
     plt.hist([s for s in pssm.negScoresList if s > cutOff.value], bins= 100, color="red", alpha=0.5, label="Background")
     plt.title("PSSM CUT OFF")
+    plt.legend(loc='upper left')
+    plt.xlabel("score")
+    plt.grid(True)
 
     print "Cut Off Value:" , cutOff.value
     print "Sensitivity: " + str(round(cutOff.sensitivityPercent, 2)) + "%"

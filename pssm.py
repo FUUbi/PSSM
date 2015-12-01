@@ -1,4 +1,5 @@
 import Bio
+import os
 from Bio import SeqIO
 from Bio import motifs
 from Bio.Alphabet.IUPAC import IUPACUnambiguousDNA
@@ -36,11 +37,11 @@ class Pssm:
         print "done!"
 
     def setSpliceSite(self, filePath):
-        print "set Splice PSSM  "
+        print "set Splice PSSM:  "
         self.spliceSite = self.calcutaltePssm(filePath)
 
     def setBackground(self, filePath):
-        print "set background PSSM"
+        print "set background PSSM: "
         self.background = self.calcutaltePssm(filePath)
 
     def calcutaltePssm(self, filePath):
@@ -50,6 +51,7 @@ class Pssm:
             instance.append(dna_seq)
         # wmm
         m = motifs.create(instance)
+        m.weblogo(os.path.splitext(os.path.basename(filePath))[0]+"Logo.png")
         pwm = m.counts.normalize(pseudocounts=0)
         pssm = pwm.log_odds()       # pssm
         print pssm
