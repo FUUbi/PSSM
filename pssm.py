@@ -36,20 +36,34 @@ class Pssm:
         print "done!"
 
     def setSpliceSite(self, filePath):
-        print "set Splice PSSM  "
-        self.spliceSite = self.calcutaltePssm(filePath)
+        print "set Splice PSSM:  "
+        self.spliceSite = self.calcutaltePssmSliceSite(filePath)
 
     def setBackground(self, filePath):
-        print "set background PSSM"
-        self.background = self.calcutaltePssm(filePath)
+        print "set background PSSM: "
+        self.background = self.calcutaltePssmBackground(filePath)
 
-    def calcutaltePssm(self, filePath):
+    def calcutaltePssmBackground(self, filePath):
         instance = list()
         for seq_record in SeqIO.parse(filePath, "fasta"):
             dna_seq = Seq(str(seq_record.seq).upper())
             instance.append(dna_seq)
         # wmm
         m = motifs.create(instance)
+        m.weblogo("LogoBackground.png")
+        pwm = m.counts.normalize(pseudocounts=0)
+        pssm = pwm.log_odds()       # pssm
+        print pssm
+        return pssm
+
+    def calcutaltePssmSliceSite(self, filePath):
+        instance = list()
+        for seq_record in SeqIO.parse(filePath, "fasta"):
+            dna_seq = Seq(str(seq_record.seq).upper())
+            instance.append(dna_seq)
+        # wmm
+        m = motifs.create(instance)
+        m.weblogo("LogoSliceSite.png")
         pwm = m.counts.normalize(pseudocounts=0)
         pssm = pwm.log_odds()       # pssm
         print pssm
