@@ -51,8 +51,9 @@ class CutOff:
         self.value = 0
 
         #http://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.differential_evolution.html#scipy.optimize.differential_evolution
-        self.mcc = so.differential_evolution(self.calcMcc,  [(probableCutOffStart, probableCutOffEnd)]).x[0]
-
+        res = so.differential_evolution(self.calcMcc,  [(probableCutOffStart, probableCutOffEnd)])
+        self.mcc = res.fun
+        self.value = res.x[0]
         #### more random optimation, also works.....
         # func = lambda x: self.calcMcc(x)
         # x0 =[1.] #Initial guess.
